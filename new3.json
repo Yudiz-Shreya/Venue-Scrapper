@@ -1,0 +1,669 @@
+[
+  {
+    "_id": {
+      "$oid": "622c94fddfe0f98ed5f8a70c"
+    },
+    "sVenueKey": "19",
+    "sName": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "sLocation": "Chandigarh",
+    "sTimezone": "5.5",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:41:33.926Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:49.800Z"
+    },
+    "__v": 0,
+    "sLatitude": "30.73629",
+    "sLongitude": "76.7884",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/46/punjab-cricket-association-is-bindra-stadium",
+      "espnUrl": "https://www.espncricinfo.com/records/ground/ind-i-s-bindra-punjab-cricket-association-stadium-1015",
+      "cricketDotComUrl": ""
+    },
+    "sCapacity": "30000",
+    "sFloodlights": "Yes",
+    "oStats": {
+      "test": {
+        "highestTeamScore": {
+          "date": "Oct 16",
+          "year": "2003",
+          "teams": "India vs New Zealand",
+          "score": "630/6"
+        },
+        "lowestTeamScore": {
+          "date": "Oct 10",
+          "year": "1999",
+          "teams": "India vs New Zealand",
+          "score": "83/10"
+        }
+      },
+      "odi": {
+        "highestTeamScore": {
+          "date": "Mar 10",
+          "year": "2019",
+          "teams": "India vs Australia",
+          "score": "359/6"
+        },
+        "lowestTeamScore": {
+          "date": "Mar 14",
+          "year": "1996",
+          "teams": "Australia vs West Indies",
+          "score": "207/8"
+        }
+      },
+      "t20": {
+        "highestTeamScore": {
+          "date": "Sep 20",
+          "year": "2022",
+          "teams": "India vs Australia",
+          "score": "211/6"
+        },
+        "lowestTeamScore": {
+          "date": "Mar 27",
+          "year": "2016",
+          "teams": "India Women vs West Indies Women",
+          "score": "114/8"
+        }
+      }
+    },
+    "sArea": "Mohali, India",
+    "sVenueName": "IND: I.S. Bindra Punjab Cricket Association Stadium Cricket Ground Records",
+    "sTimeZone": "UTC +05:30",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:50:29.997Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9523dfe0f98ed5f8acec"
+    },
+    "sVenueKey": "116",
+    "sName": "Holkar Cricket Stadium, Indore",
+    "sLocation": "Indore",
+    "sTimezone": "+5.5",
+    "eTagStatus": "a",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:42:11.345Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:46.884Z"
+    },
+    "__v": 0,
+    "sLatitude": "22.7242512",
+    "sLongitude": "75.8796703",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/152/holkar-cricket-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/holkar-cricket-stadium-indore-58150",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/holkar-cricket-stadium-indore-92"
+    },
+    "aEnds": [
+      "GAIL-Madhav Rao Scindia End",
+      "Pavilion End"
+    ],
+    "aHomeTeams": [
+      "Madhya Pradesh"
+    ],
+    "aAlsoKnownAs": [
+      "Maharani Usharaje Trust Cricket Ground"
+    ],
+    "oStats": {
+      "test": {
+        "firstTest": {
+          "date": "October 8, 2016",
+          "year": "2016",
+          "teams": "India vs New Zealand",
+          "matchResult": "India beat New Zealand by 321 runs"
+        },
+        "recentTest": {
+          "date": "March 1, 2023",
+          "year": "2023",
+          "teams": "Australia vs India",
+          "matchResult": "Australia beat India by 9 wickets"
+        },
+        "highestTeamScore": {
+          "score": "557/5",
+          "date": "October 8, 2016",
+          "year": "2016",
+          "teams": "India vs New Zealand",
+          "matchResult": "India beat New Zealand by 321 runs"
+        },
+        "lowestTeamScore": {
+          "score": "109/10",
+          "date": "March 1, 2023",
+          "year": "2023",
+          "teams": "Australia vs India",
+          "matchResult": "Australia beat India by 9 wickets"
+        }
+      },
+      "odi": {
+        "firstOdi": {
+          "date": "April 15, 2006",
+          "year": "2006",
+          "teams": "England vs India",
+          "matchResult": "India beat England by 7 wickets"
+        },
+        "recentOdi": {
+          "date": "September 24, 2023",
+          "year": "2023",
+          "teams": "Australia vs India",
+          "matchResult": "India beat Australia by 99 runs (D/L method)"
+        },
+        "highestTeamScore": {
+          "score": "418/5",
+          "date": "December 8, 2011",
+          "year": "2011",
+          "teams": "India vs West Indies",
+          "matchResult": "India beat West Indies by 153 runs"
+        },
+        "lowestTeamScore": {
+          "score": "217/10",
+          "date": "September 24, 2023",
+          "year": "2023",
+          "teams": "Australia vs India",
+          "matchResult": "India beat Australia by 99 runs (D/L method)"
+        }
+      },
+      "t20": {
+        "firstT20": {
+          "date": "December 22, 2017",
+          "year": "2017",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "India beat Sri Lanka by 88 runs"
+        },
+        "recentT20": {
+          "date": "January 14, 2024",
+          "year": "2024",
+          "teams": "India vs Afghanistan",
+          "matchResult": "India beat Afghanistan by 6 wickets"
+        },
+        "highestTeamScore": {
+          "score": "260/5",
+          "date": "December 22, 2017",
+          "year": "2017",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "India beat Sri Lanka by 88 runs"
+        },
+        "lowestTeamScore": {
+          "score": "172/10",
+          "date": "January 14, 2024",
+          "year": "2024",
+          "teams": "India vs Afghanistan",
+          "matchResult": "India beat Afghanistan by 6 wickets"
+        }
+      }
+    },
+    "sFloodlights": "Yes",
+    "sArea": "Indore, India",
+    "sVenueName": "Holkar Cricket Stadium",
+    "sTimeZone": "UTC +05:30",
+    "sCapacity": "30000",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:50:42.122Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c952ddfe0f98ed5f8af93"
+    },
+    "sVenueKey": "174",
+    "sName": "Perth Stadium",
+    "sLocation": "Perth",
+    "sTimezone": "0",
+    "eTagStatus": "a",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:42:21.388Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:45.156Z"
+    },
+    "__v": 0,
+    "sLatitude": "-31.9502818",
+    "sLongitude": "115.8929019",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/512/perth-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/perth-stadium-1126475",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/perth-stadium-perth-1926"
+    },
+    "aEnds": [
+      "Langer Stand End",
+      "Member's End"
+    ],
+    "oStats": {
+      "test": {
+        "firstTest": {
+          "date": "December 14, 2018",
+          "year": "2018",
+          "teams": "Australia vs India",
+          "matchResult": "Australia beat India by 146 runs"
+        },
+        "recentTest": {
+          "date": "November 22, 2024",
+          "year": "2024",
+          "teams": "Australia vs India",
+          "matchResult": "India beat Australia by 295 runs"
+        },
+        "highestTeamScore": {
+          "score": "598/4",
+          "date": "November 30, 2022",
+          "year": "2022",
+          "teams": "Australia vs West Indies",
+          "matchResult": "Australia beat West Indies by 164 runs"
+        },
+        "lowestTeamScore": {
+          "score": "89/10",
+          "date": "December 14, 2023",
+          "year": "2023",
+          "teams": "Pakistan vs Australia",
+          "matchResult": "Australia beat Pakistan by 360 runs"
+        }
+      },
+      "odi": {
+        "firstOdi": {
+          "date": "January 28, 2018",
+          "year": "2018",
+          "teams": "Australia vs England",
+          "matchResult": "England beat Australia by 12 runs"
+        },
+        "recentOdi": {
+          "date": "November 10, 2024",
+          "year": "2024",
+          "teams": "Pakistan vs Australia",
+          "matchResult": "Pakistan beat Australia by 8 wickets"
+        },
+        "highestTeamScore": {
+          "score": "259/10",
+          "date": "January 28, 2018",
+          "year": "2018",
+          "teams": "Australia vs England",
+          "matchResult": "England beat Australia by 12 runs"
+        },
+        "lowestTeamScore": {
+          "score": "140/10",
+          "date": "November 10, 2024",
+          "year": "2024",
+          "teams": "Pakistan vs Australia",
+          "matchResult": "Pakistan beat Australia by 8 wickets"
+        }
+      },
+      "t20": {
+        "firstT20": {
+          "date": "November 8, 2019",
+          "year": "2019",
+          "teams": "Pakistan vs Australia",
+          "matchResult": "Australia beat Pakistan by 10 wickets"
+        },
+        "recentT20": {
+          "date": "February 13, 2024",
+          "year": "2024",
+          "teams": "Australia vs West Indies",
+          "matchResult": "West Indies beat Australia by 37 runs"
+        },
+        "highestTeamScore": {
+          "score": "220/6",
+          "date": "February 13, 2024",
+          "year": "2024",
+          "teams": "Australia vs West Indies",
+          "matchResult": "West Indies beat Australia by 37 runs"
+        },
+        "lowestTeamScore": {
+          "score": "112/10",
+          "date": "October 22, 2022",
+          "year": "2022",
+          "teams": "England vs Afghanistan",
+          "matchResult": "England beat Afghanistan by 5 wickets"
+        }
+      }
+    },
+    "sFloodlights": "Yes",
+    "sArea": "Perth, Australia",
+    "sVenueName": "Perth Stadium",
+    "sCapacity": "65000",
+    "sTimeZone": "UTC +08:00",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:50:54.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9887dfe0f98ed5f8c390"
+    },
+    "sVenueKey": "14",
+    "sName": "Iqbal Stadium, Faisalabad",
+    "sLocation": "Faisalabad",
+    "sTimezone": "5",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:56:39.892Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:37.537Z"
+    },
+    "__v": 0,
+    "sLatitude": "31.4338475",
+    "sLongitude": "73.0857949",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/30/iqbal-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/iqbal-stadium-faisalabad-58927",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/iqbal-stadium-faisalabad-69"
+    },
+    "aEnds": [
+      "Pavilion End",
+      "Golf Course End"
+    ],
+    "aHomeTeams": [
+      "Faisalabad"
+    ],
+    "aAlsoKnownAs": [
+      "Lyallpur Stadium; National Stadium; City Stadium"
+    ],
+    "oStats": {
+      "test": {
+        "firstTest": {
+          "date": "October 16, 1978",
+          "year": "1978",
+          "teams": "Pakistan vs India",
+          "matchResult": "Pakistan drew with India"
+        },
+        "recentTest": {
+          "date": "January 21, 2006",
+          "year": "2006",
+          "teams": "Pakistan vs India",
+          "matchResult": "Pakistan drew with India"
+        },
+        "highestTeamScore": {
+          "score": "674/6",
+          "date": "October 24, 1984",
+          "year": "1984",
+          "teams": "Pakistan vs India",
+          "matchResult": "Pakistan drew with India"
+        },
+        "lowestTeamScore": {
+          "score": "53/10",
+          "date": "October 24, 1986",
+          "year": "1986",
+          "teams": "Pakistan vs West Indies",
+          "matchResult": "Pakistan beat West Indies by 186 runs"
+        }
+      },
+      "odi": {
+        "firstOdi": {
+          "date": "November 23, 1984",
+          "year": "1984",
+          "teams": "Pakistan vs New Zealand",
+          "matchResult": "Pakistan beat New Zealand by 5 runs"
+        },
+        "recentOdi": {
+          "date": "April 11, 2008",
+          "year": "2008",
+          "teams": "Pakistan vs Bangladesh",
+          "matchResult": "Pakistan beat Bangladesh by 7 wickets (D/L Method)"
+        },
+        "highestTeamScore": {
+          "score": "314/7",
+          "date": "December 3, 2003",
+          "year": "2003",
+          "teams": "Pakistan vs New Zealand",
+          "matchResult": "Pakistan beat New Zealand by 51 runs"
+        },
+        "lowestTeamScore": {
+          "score": "151/10",
+          "date": "December 7, 2006",
+          "year": "2006",
+          "teams": "Pakistan vs West Indies",
+          "matchResult": "Pakistan beat West Indies by 2 wickets"
+        }
+      }
+    },
+    "sPitch": "grass",
+    "sFloodlights": "Yes",
+    "sArea": "Faisalabad, Pakistan",
+    "sVenueName": "Iqbal Stadium",
+    "sCapacity": "25000",
+    "sTimeZone": "UTC +05:00",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:51:04.541Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b08dfe0f98ed5f8d335"
+    },
+    "sVenueKey": "26",
+    "sName": "Green Park, Kanpur",
+    "sLocation": "Kanpur",
+    "sTimezone": "5.5",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:07:20.986Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:32.198Z"
+    },
+    "__v": 0,
+    "sLatitude": "26.4821081",
+    "sLongitude": "80.3477543",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/32/green-park",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/green-park-kanpur-58204",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/green-park-kanpur-61"
+    },
+    "aEnds": [
+      "Mill Pavilion End",
+      "Hostel End"
+    ],
+    "aHomeTeams": [
+      "Uttar Pradesh"
+    ],
+    "aAlsoKnownAs": [
+      "Modi Stadium"
+    ],
+    "Other_Sports_it_is_home_to": "Football",
+    "oStats": {
+      "test": {
+        "firstTest": {
+          "date": "January 12, 1952",
+          "year": "1952",
+          "teams": "England vs India",
+          "matchResult": "England beat India by 8 wickets"
+        },
+        "recentTest": {
+          "date": "September 27, 2024",
+          "year": "2024",
+          "teams": "India vs Bangladesh",
+          "matchResult": "India beat Bangladesh by 7 wickets"
+        },
+        "highestTeamScore": {
+          "score": "676/7",
+          "date": "December 17, 1986",
+          "year": "1986",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "India drew with Sri Lanka"
+        },
+        "lowestTeamScore": {
+          "score": "121/10",
+          "date": "January 12, 1952",
+          "year": "1952",
+          "teams": "England vs India",
+          "matchResult": "England beat India by 8 wickets"
+        }
+      },
+      "odi": {
+        "firstOdi": {
+          "date": "December 24, 1986",
+          "year": "1986",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "Sri Lanka beat India by 117 runs (revised target)"
+        },
+        "recentOdi": {
+          "date": "October 29, 2017",
+          "year": "2017",
+          "teams": "India vs New Zealand",
+          "matchResult": "India beat New Zealand by 6 runs"
+        },
+        "highestTeamScore": {
+          "score": "337/6",
+          "date": "October 29, 2017",
+          "year": "2017",
+          "teams": "India vs New Zealand",
+          "matchResult": "India beat New Zealand by 6 runs"
+        },
+        "lowestTeamScore": {
+          "score": "78/10",
+          "date": "December 24, 1986",
+          "year": "1986",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "Sri Lanka beat India by 117 runs (revised target)"
+        }
+      },
+      "t20": {
+        "firstT20": {
+          "date": "January 26, 2017",
+          "year": "2017",
+          "teams": "England vs India",
+          "matchResult": "England beat India by 7 wickets"
+        },
+        "recentT20": {
+          "date": "January 26, 2017",
+          "year": "2017",
+          "teams": "England vs India",
+          "matchResult": "England beat India by 7 wickets"
+        },
+        "highestTeamScore": {
+          "score": "148/3",
+          "date": "January 26, 2017",
+          "year": "2017",
+          "teams": "England vs India",
+          "matchResult": "England beat India by 7 wickets"
+        },
+        "lowestTeamScore": {
+          "matchResult": "Match details not available"
+        }
+      }
+    },
+    "sOpened": "1945",
+    "sCurator": "Shivkumar",
+    "aOtherSports": [
+      "Football"
+    ],
+    "sPitch": "Grass",
+    "sFloodlights": "Yes",
+    "sArea": "Kanpur, India",
+    "sVenueName": "Green Park",
+    "sCapacity": "32000",
+    "sTimeZone": "UTC +05:30",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:51:13.485Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b18dfe0f98ed5f8d96d"
+    },
+    "sVenueKey": "122",
+    "sName": "Basin Reserve, Wellington",
+    "sLocation": "Wellington",
+    "sTimezone": "",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:07:36.417Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:29.572Z"
+    },
+    "__v": 0,
+    "sLatitude": "-41.30036",
+    "sLongitude": "174.7802545",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/45/basin-reserve",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/basin-reserve-wellington-58895",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/basin-reserve-wellington-14"
+    },
+    "aEnds": [
+      "Vance Stand End",
+      "Scoreboard End"
+    ],
+    "aHomeTeams": [
+      "Wellington"
+    ],
+    "oStats": {
+      "test": {
+        "firstTest": {
+          "date": "January 24, 1930",
+          "year": "1930",
+          "teams": "England vs New Zealand",
+          "matchResult": "New Zealand drew with England"
+        },
+        "recentTest": {
+          "date": "December 6, 2024",
+          "year": "2024",
+          "teams": "England vs New Zealand",
+          "matchResult": "England beat New Zealand by 323 runs"
+        },
+        "highestTeamScore": {
+          "score": "680/8",
+          "date": "February 14, 2014",
+          "year": "2014",
+          "teams": "India vs New Zealand",
+          "matchResult": "New Zealand drew with India"
+        },
+        "lowestTeamScore": {
+          "score": "42/10",
+          "date": "March 29, 1946",
+          "year": "1946",
+          "teams": "Australia vs New Zealand",
+          "matchResult": "Australia beat New Zealand by an innings and 103 runs"
+        }
+      },
+      "odi": {
+        "firstOdi": {
+          "date": "March 9, 1975",
+          "year": "1975",
+          "teams": "-",
+          "matchResult": "Match Abandoned"
+        },
+        "recentOdi": {
+          "date": "January 5, 2025",
+          "year": "2025",
+          "teams": "New Zealand vs Sri Lanka",
+          "matchResult": "New Zealand beat Sri Lanka by 9 wickets"
+        },
+        "highestTeamScore": {
+          "score": "318/6",
+          "date": "March 26, 2021",
+          "year": "2021",
+          "teams": "New Zealand vs Bangladesh",
+          "matchResult": "New Zealand beat Bangladesh by 164 runs"
+        },
+        "lowestTeamScore": {
+          "score": "74/10",
+          "date": "February 20, 1982",
+          "year": "1982",
+          "teams": "Australia vs New Zealand",
+          "matchResult": "Australia beat New Zealand by 8 wickets"
+        }
+      }
+    },
+    "sFloodlights": "No",
+    "sArea": "Wellington, New Zealand",
+    "sVenueName": "Cello Basin Reserve",
+    "sCapacity": "11600",
+    "sTimeZone": "UTC +13:00",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:51:24.731Z"
+    }
+  }
+]

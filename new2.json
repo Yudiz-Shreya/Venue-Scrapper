@@ -1,0 +1,560 @@
+[
+  {
+    "_id": {
+      "$oid": "622d9df209a36f4f3cbbf32b"
+    },
+    "sVenueKey": "358",
+    "sName": "Marlborough College Ground, Marlborough",
+    "sLocation": "Marlborough",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:32:02.462Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:32:04.091Z"
+    },
+    "__v": 0,
+    "sLatitude": "42.34593",
+    "sLongitude": "-71.55229",
+    "oThirdparty": {
+      "cricbuzzUrl": "",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/marlborough-college-ground-marlborough-1190992",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/marlborough-college-ground-marlborough-2483 "
+    },
+    "sFloodlights": "No",
+    "sVenueName": "Marlborough College Ground",
+    "sArea": "England",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:34.273Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622d9df809a36f4f3cbbf654"
+    },
+    "sVenueKey": "373",
+    "sName": "Selangor Turf Club, Kuala Lumpur",
+    "sLocation": "Kuala Lumpur",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:32:08.465Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:32:02.168Z"
+    },
+    "__v": 0,
+    "sLatitude": "3.0478799",
+    "sLongitude": "101.7133644",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/1293/selangor-turf-club",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/selangor-turf-club-kuala-lumpur-58671",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/selangor-turf-club-kuala-lumpur-209"
+    },
+    "aEnds": [
+      "Pond End",
+      "Maze End"
+    ],
+    "oStats": {
+      "t20": {
+        "firstT20": {
+          "date": "August 21, 2024",
+          "year": "2024",
+          "teams": "Hong Kong vs Kuwait",
+          "matchResult": "Kuwait beat Hong Kong, China by 4 wickets"
+        },
+        "recentT20": {
+          "date": "August 27, 2024",
+          "year": "2024",
+          "teams": "Hong Kong vs Kuwait",
+          "matchResult": "Kuwait beat Hong Kong, China by 8 wickets"
+        },
+        "highestTeamScore": {
+          "score": "169/6",
+          "date": "August 21, 2024",
+          "year": "2024",
+          "teams": "Hong Kong vs Kuwait",
+          "matchResult": "Kuwait beat Hong Kong, China by 4 wickets"
+        },
+        "lowestTeamScore": {
+          "score": "70/10",
+          "date": "August 22, 2024",
+          "year": "2024",
+          "teams": "Kuwait vs Malaysia",
+          "matchResult": "Malaysia beat Kuwait by 5 wickets"
+        }
+      }
+    },
+    "sPitch": "Turf",
+    "sFloodlights": "No",
+    "sVenueName": "Selangor Turf Club",
+    "sArea": "Malaysia",
+    "sTimeZone": "UTC +08:00",
+    "sCurator": "Ramasamy Suppiah",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:35.796Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622d9dfd09a36f4f3cbbf8c1"
+    },
+    "sVenueKey": "360",
+    "sName": "Svanholm Park, Brondby",
+    "sLocation": "Brondby",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:32:13.467Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:32:00.886Z"
+    },
+    "__v": 0,
+    "sLatitude": "55.6288169",
+    "sLongitude": "12.4278587",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/570/svanholm-park",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/svanholm-park-brondby-209731",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/selangor-turf-club-kuala-lumpur-209"
+    },
+    "aHomeTeams": [
+      "Denmark"
+    ],
+    "oStats": {
+      "t20": {
+        "firstT20": {
+          "date": "August 21, 2024",
+          "year": "2024",
+          "teams": "Hong Kong vs Kuwait",
+          "matchResult": "Kuwait beat Hong Kong, China by 4 wickets"
+        },
+        "recentT20": {
+          "date": "August 27, 2024",
+          "year": "2024",
+          "teams": "Hong Kong vs Kuwait",
+          "matchResult": "Kuwait beat Hong Kong, China by 8 wickets"
+        },
+        "highestTeamScore": {
+          "score": "169/6",
+          "date": "August 21, 2024",
+          "year": "2024",
+          "teams": "Hong Kong vs Kuwait",
+          "matchResult": "Kuwait beat Hong Kong, China by 4 wickets"
+        },
+        "lowestTeamScore": {
+          "score": "70/10",
+          "date": "August 22, 2024",
+          "year": "2024",
+          "teams": "Kuwait vs Malaysia",
+          "matchResult": "Malaysia beat Kuwait by 5 wickets"
+        }
+      }
+    },
+    "sPitch": "Grass",
+    "sFloodlights": "No",
+    "sVenueName": "Selangor Turf Club",
+    "sArea": "Malaysia",
+    "sTimeZone": "UTC +02:00",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:37.447Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622d9dfd09a36f4f3cbbf8af"
+    },
+    "sVenueKey": "381",
+    "sName": "Park 25 No.2, Adelaide",
+    "sLocation": "Adelaide",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:32:13.464Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:32:01.590Z"
+    },
+    "__v": 0,
+    "sLatitude": "-34.92866",
+    "sLongitude": "138.59863",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/720/park-25-no-2",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/park-25-no-2-adelaide-56312",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/park-25-adelaide-2010"
+    },
+    "aHomeTeams": [
+      "Australian Cricket Academy"
+    ],
+    "aAlsoKnownAs": [
+      "Gladys Elphick Park"
+    ],
+    "sFloodlights": "No",
+    "sVenueName": "Park 25",
+    "sArea": "Australia",
+    "sTimeZone": "UTC +10:30",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:38.860Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622d9e0009a36f4f3cbbfa73"
+    },
+    "sVenueKey": "383",
+    "sName": "Phillip Oval, Canberra",
+    "sLocation": "Canberra",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:32:16.464Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:32:00.351Z"
+    },
+    "__v": 0,
+    "sLatitude": "-35.28346",
+    "sLongitude": "149.12807",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/1223/epc-solar-park",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/phillip-oval-canberra-1201317",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/phillip-oval-canberra-2011"
+    },
+    "aAlsoKnownAs": [
+      "Phillip Oval"
+    ],
+    "sFloodlights": "No",
+    "sVenueName": "EPC Solar Park",
+    "sArea": "Australia",
+    "sTimeZone": "UTC +11:00",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:39.275Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622d9e4e09a36f4f3cbc2361"
+    },
+    "sVenueKey": "365",
+    "sName": "Kerava National Cricket Ground",
+    "sLocation": "Kerava",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:33:34.742Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:31:57.425Z"
+    },
+    "__v": 0,
+    "sLatitude": "60.391243",
+    "sLongitude": "25.1163573",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/1223/epc-solar-park",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/phillip-oval-canberra-1201317",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/phillip-oval-canberra-2011"
+    },
+    "aAlsoKnownAs": [
+      "Phillip Oval"
+    ],
+    "sFloodlights": "No",
+    "sVenueName": "EPC Solar Park",
+    "sArea": "Australia",
+    "sTimeZone": "UTC +11:00",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:39.434Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622da09509a36f4f3cbcacd1"
+    },
+    "sVenueKey": "397",
+    "sName": "South Dinajpur District Sports Association Cricket Ground, Balurghat",
+    "sLocation": "Balurghat",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:43:17.643Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:31:55.614Z"
+    },
+    "__v": 0,
+    "sLatitude": "25.22099",
+    "sLongitude": "88.77732",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/672/south-dinajpur-district-sports-association-cricket-ground",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/south-dinajpur-district-sports-association-cricket-ground-balurghat-1212600",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/south-dinajpur-district-sports-association-cricket-ground-balurghat-2037"
+    },
+    "sFloodlights": "No",
+    "sVenueName": "South Dinajpur District Sports Association Cricket Ground",
+    "sArea": "India",
+    "sTimeZone": "UTC +05:30",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:40.002Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622da09f09a36f4f3cbcb2d0"
+    },
+    "sVenueKey": "1213302",
+    "sName": "Cartama Oval,Cartama",
+    "sLocation": "Cartama",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:43:27.904Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:31:52.056Z"
+    },
+    "__v": 0,
+    "sLatitude": "36.71068",
+    "sLongitude": "-4.63297",
+    "oThirdparty": {
+      "cricbuzzUrl": "",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/carrara-oval-56383",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/cartama-oval-cartama-2158"
+    },
+    "aHomeTeams": [
+      "Queensland"
+    ],
+    "aOtherSports": [
+      "AFL"
+    ],
+    "sPitch": "Grass",
+    "sFloodlights": "No",
+    "sVenueName": "Cartama Oval",
+    "sArea": "Spain",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:40.345Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622da0a509a36f4f3cbcb5f0"
+    },
+    "sVenueKey": "448",
+    "sName": "University of Free State Ground, Bloemfontein",
+    "sLocation": "Bloemfontein",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:43:33.774Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:31:50.890Z"
+    },
+    "__v": 0,
+    "sLatitude": "-29.12107",
+    "sLongitude": "26.214",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/72/mangaung-oval",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/university-of-free-state-ground-bloemfontein-59047",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/university-of-free-state-ground-bloemfontein-1793"
+    },
+    "aHomeTeams": [
+      "Orange Free State"
+    ],
+    "aAlsoKnownAs": [
+      "University of Orange Free State Ground",
+      "Bloemfontein",
+      "Chevrolet Park, OUTsurance Oval, Goodyear Park, Springbok Park"
+    ],
+    "sCapacity": "20000",
+    "sFloodlights": "No",
+    "sVenueName": "University of Free State Ground",
+    "sArea": "South Africa",
+    "sTimeZone": "UTC +02:00",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:43.774Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622da0b909a36f4f3cbcc0f7"
+    },
+    "sVenueKey": "482",
+    "sName": "Jadavpur University Campus, Kolkata",
+    "sLocation": "Kolkata",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:43:53.917Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:31:47.592Z"
+    },
+    "__v": 0,
+    "sLatitude": "22.56263",
+    "sLongitude": "88.36304",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/381/jadavpur-university-campus",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/jadavpur-university-campus-kolkata-57986",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/jadavpur-university-campus-2nd-ground-kolkata-1859"
+    },
+    "sFloodlights": "No",
+    "sVenueName": "Jadavpur University Campus 2nd Ground",
+    "sArea": "India",
+    "sTimeZone": "UTC +05:30",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:44.412Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622da0c309a36f4f3cbcc60a"
+    },
+    "sVenueKey": "389",
+    "sName": "Sector 16 Stadium, Chandigarh",
+    "sLocation": "Chandigarh",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:44:03.805Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:31:44.557Z"
+    },
+    "__v": 0,
+    "sLatitude": "30.7419173",
+    "sLongitude": "76.7747257",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/120/sector-16-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/sector-16-stadium-chandigarh-57993",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/sector-16-stadium-chandigarh-140"
+    },
+    "aHomeTeams": [
+      "Haryana",
+      "Punjab"
+    ],
+    "oStats": {
+      "test": {
+        "firstTest": {
+          "date": "November 23, 1990",
+          "year": "1990",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "India beat Sri Lanka by an innings and 8 runs"
+        },
+        "recentTest": {
+          "date": "November 23, 1990",
+          "year": "1990",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "India beat Sri Lanka by an innings and 8 runs"
+        },
+        "highestTeamScore": {
+          "score": "288/10",
+          "date": "November 23, 1990",
+          "year": "1990",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "India beat Sri Lanka by an innings and 8 runs"
+        },
+        "lowestTeamScore": {
+          "score": "82/10",
+          "date": "November 23, 1990",
+          "year": "1990",
+          "teams": "India vs Sri Lanka",
+          "matchResult": "India beat Sri Lanka by an innings and 8 runs"
+        }
+      },
+      "odi": {
+        "firstOdi": {
+          "date": "January 27, 1985",
+          "year": "1985",
+          "teams": "England vs India",
+          "matchResult": "England beat India by 7 runs"
+        },
+        "recentOdi": {
+          "date": "October 8, 2007",
+          "year": "2007",
+          "teams": "Australia vs India",
+          "matchResult": "India beat Australia by 8 runs"
+        },
+        "highestTeamScore": {
+          "score": "291/4",
+          "date": "October 8, 2007",
+          "year": "2007",
+          "teams": "Australia vs India",
+          "matchResult": "India beat Australia by 8 runs"
+        },
+        "lowestTeamScore": {
+          "matchResult": "Match details not available"
+        }
+      }
+    },
+    "sFloodlights": "No",
+    "sVenueName": "Sector 16 Stadium",
+    "sArea": "India",
+    "sTimeZone": "UTC +05:30",
+    "sCapacity": "30000",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:46.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622da0c509a36f4f3cbcc705"
+    },
+    "sVenueKey": "2",
+    "sName": "Kabul International Cricket Stadium",
+    "sLocation": "Kabul",
+    "sTimezone": "-12",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-13T07:44:05.738Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:31:43.984Z"
+    },
+    "__v": 0,
+    "sLatitude": "34.2829267",
+    "sLongitude": "70.6532373",
+    "oThirdparty": {
+      "cricbuzzUrl": "",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/kabul-international-cricket-stadium-775615",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/kabul-international-cricket-stadium-kabul-1920"
+    },
+    "aHomeTeams": [
+      "Afghanistan"
+    ],
+    "aAlsoKnownAs": [
+      "Alokozay Kabul International Cricket Ground"
+    ],
+    "sOpened": "2011",
+    "sFloodlights": "No",
+    "sVenueName": "Kabul International Cricket Stadium",
+    "sCapacity": "6000",
+    "sArea": "Afghanistan",
+    "oScraped": {
+      "bResult": true,
+      "timestamp": "2025-08-21T05:48:47.118Z"
+    }
+  }
+]

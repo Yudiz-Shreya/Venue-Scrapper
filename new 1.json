@@ -1,0 +1,252 @@
+[
+  {
+    "_id": {
+      "$oid": "622c94fddfe0f98ed5f8a70c"
+    },
+    "sVenueKey": "19",
+    "sName": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "sLocation": "Chandigarh",
+    "sTimezone": "5.5",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:41:33.926Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:49.800Z"
+    },
+    "__v": 0,
+    "sLatitude": "30.73629",
+    "sLongitude": "76.7884",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/46/punjab-cricket-association-is-bindra-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/i-s-bindra-punjab-cricket-association-stadium-57991",
+      "cricketDotComUrl": ""
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9523dfe0f98ed5f8acec"
+    },
+    "sVenueKey": "116",
+    "sName": "Holkar Cricket Stadium, Indore",
+    "sLocation": "Indore",
+    "sTimezone": "+5.5",
+    "eTagStatus": "a",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:42:11.345Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:46.884Z"
+    },
+    "__v": 0,
+    "sLatitude": "22.7242512",
+    "sLongitude": "75.8796703",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/152/holkar-cricket-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/holkar-cricket-stadium-indore-58150",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/holkar-cricket-stadium-indore-92"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c952ddfe0f98ed5f8af93"
+    },
+    "sVenueKey": "174",
+    "sName": "Perth Stadium",
+    "sLocation": "Perth",
+    "sTimezone": "0",
+    "eTagStatus": "a",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:42:21.388Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:45.156Z"
+    },
+    "__v": 0,
+    "sLatitude": "-31.9502818",
+    "sLongitude": "115.8929019",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/512/perth-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/perth-stadium-1126475",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/perth-stadium-perth-1926"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9887dfe0f98ed5f8c390"
+    },
+    "sVenueKey": "14",
+    "sName": "Iqbal Stadium, Faisalabad",
+    "sLocation": "Faisalabad",
+    "sTimezone": "5",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T12:56:39.892Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:37.537Z"
+    },
+    "__v": 0,
+    "sLatitude": "31.4338475",
+    "sLongitude": "73.0857949",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/30/iqbal-stadium",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/iqbal-stadium-faisalabad-58927",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/iqbal-stadium-faisalabad-69"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b08dfe0f98ed5f8d335"
+    },
+    "sVenueKey": "26",
+    "sName": "Green Park, Kanpur",
+    "sLocation": "Kanpur",
+    "sTimezone": "5.5",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:07:20.986Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:32.198Z"
+    },
+    "__v": 0,
+    "sLatitude": "26.4821081",
+    "sLongitude": "80.3477543",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/32/green-park",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/green-park-kanpur-58204",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/green-park-kanpur-61"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b18dfe0f98ed5f8d96d"
+    },
+    "sVenueKey": "122",
+    "sName": "Basin Reserve, Wellington",
+    "sLocation": "Wellington",
+    "sTimezone": "",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:07:36.417Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:29.572Z"
+    },
+    "__v": 0,
+    "sLatitude": "-41.30036",
+    "sLongitude": "174.7802545",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/45/basin-reserve",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/basin-reserve-wellington-58895",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/basin-reserve-wellington-14"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b89dfe0f98ed5f8dc6c"
+    },
+    "sVenueKey": "37",
+    "sName": "The Village, Malahide, Dublin",
+    "sLocation": "Dublin",
+    "sTimezone": "1",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:09:29.684Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:26.878Z"
+    },
+    "__v": 0,
+    "sLatitude": "53.4544798",
+    "sLongitude": "-6.2190759",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/370/the-village",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/the-village-malahide-dublin-58607",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/the-village-malahide-dublin-1784"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b89dfe0f98ed5f8dcb1"
+    },
+    "sVenueKey": "7",
+    "sName": "Sophia Gardens, Cardiff",
+    "sLocation": "Cardiff",
+    "sTimezone": "1",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:09:29.989Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:25.540Z"
+    },
+    "__v": 0,
+    "sLatitude": "51.4836127",
+    "sLongitude": "-3.1891511",
+    "oThirdparty": {
+      "cricbuzzUrl": "",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/sophia-gardens-cardiff-56874",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/sophia-gardens-cardiff-149"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b8edfe0f98ed5f8df34"
+    },
+    "sVenueKey": "44",
+    "sName": "Trafalgar Road Ground, Southport",
+    "sLocation": "Southport",
+    "sTimezone": "1",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:09:34.429Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:22.995Z"
+    },
+    "__v": 0,
+    "sLatitude": "-27.96724",
+    "sLongitude": "153.39796",
+    "oThirdparty": {
+      "cricbuzzUrl": "https://www.cricbuzz.com/cricket-venues/354/trafalgar-road-ground",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/trafalgar-road-ground-southport-57321",
+      "cricketDotComUrl": "https://www.cricket.com/cricket-stadiums/trafalgar-road-ground-southport-1648"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "622c9b91dfe0f98ed5f8e095"
+    },
+    "sVenueKey": "42",
+    "sName": "Woodbridge Road, Guildford",
+    "sLocation": "Guildford",
+    "sTimezone": "1",
+    "eTagStatus": "p",
+    "bTagEnabled": true,
+    "dCreated": {
+      "$date": "2022-03-12T13:09:37.210Z"
+    },
+    "dUpdated": {
+      "$date": "2023-06-08T12:36:21.101Z"
+    },
+    "__v": 0,
+    "sLatitude": "51.2457987",
+    "sLongitude": "-0.5772557",
+    "oThirdparty": {
+      "cricbuzzUrl": "",
+      "espnUrl": "https://www.espncricinfo.com/cricket-grounds/woodbridge-road-guildford-57016",
+      "cricketDotComUrl": ""
+    }
+  }
+]

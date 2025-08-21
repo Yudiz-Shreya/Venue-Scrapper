@@ -1,0 +1,1786 @@
+[
+  {
+    "name": "OVERVIEW",
+    "url": "https://www.cricket.com/series/-"
+  },
+  {
+    "name": "MATCHES",
+    "url": "https://www.cricket.com/series/-/matches"
+  },
+  {
+    "name": "SQUADS",
+    "url": "https://www.cricket.com/series/-/squads"
+  },
+  {
+    "name": "NEWS",
+    "url": "https://www.cricket.com/series/-/news"
+  },
+  {
+    "name": "STADIUMS",
+    "url": "https://www.cricket.com/series/-/stadiums"
+  },
+  {
+    "name": "Lahore City Cricket Association Ground, Lahore",
+    "url": "https://www.cricket.com/cricket-stadiums/lahore-city-cricket-association-ground-lahore-537"
+  },
+  {
+    "name": "Drummoyne Oval, Sydney",
+    "url": "https://www.cricket.com/cricket-stadiums/drummoyne-oval-sydney-447"
+  },
+  {
+    "name": "Sawai Mansingh Stadium, Jaipur",
+    "url": "https://www.cricket.com/cricket-stadiums/sawai-mansingh-stadium-jaipur-139"
+  },
+  {
+    "name": "Kinrara Academy Oval, Kuala Lumpur",
+    "url": "https://www.cricket.com/cricket-stadiums/kinrara-academy-oval-kuala-lumpur-85"
+  },
+  {
+    "name": "KSCA Cricket Ground, Alur",
+    "url": "https://www.cricket.com/cricket-stadiums/ksca-cricket-ground-alur-1847"
+  },
+  {
+    "name": "National Stadium, Karachi",
+    "url": "https://www.cricket.com/cricket-stadiums/national-stadium-karachi-105"
+  },
+  {
+    "name": "JB Marks Oval, Potchefstroom",
+    "url": "https://www.cricket.com/cricket-stadiums/jb-marks-oval-potchefstroom-116"
+  },
+  {
+    "name": "KL Saini Ground, Jaipur",
+    "url": "https://www.cricket.com/cricket-stadiums/kl-saini-ground-jaipur-260"
+  },
+  {
+    "name": "Diamond Oval, Kimberley",
+    "url": "https://www.cricket.com/cricket-stadiums/diamond-oval-kimberley-43"
+  },
+  {
+    "name": "KSCA Cricket Ground 3, Alur",
+    "url": "https://www.cricket.com/cricket-stadiums/ksca-cricket-ground-3-alur-1848"
+  },
+  {
+    "name": "Queen's Park Oval, Port of Spain",
+    "url": "https://www.cricket.com/cricket-stadiums/queen-s-park-oval-port-of-spain-127"
+  },
+  {
+    "name": "Lord's Cricket Ground, London",
+    "url": "https://www.cricket.com/cricket-stadiums/lord-s-cricket-ground-london-89"
+  },
+  {
+    "name": "Trent Bridge, Nottingham",
+    "url": "https://www.cricket.com/cricket-stadiums/trent-bridge-nottingham-161"
+  },
+  {
+    "name": "SuperSport Park, Centurion",
+    "url": "https://www.cricket.com/cricket-stadiums/supersport-park-centurion-153"
+  },
+  {
+    "name": "The Oval, London",
+    "url": "https://www.cricket.com/cricket-stadiums/the-oval-london-81"
+  },
+  {
+    "name": "VRA Ground, Amstelveen",
+    "url": "https://www.cricket.com/cricket-stadiums/vra-ground-amstelveen-166"
+  },
+  {
+    "name": "Willowmoore Park, Benoni",
+    "url": "https://www.cricket.com/cricket-stadiums/willowmoore-park-benoni-172"
+  },
+  {
+    "name": "Edgbaston, Birmingham",
+    "url": "https://www.cricket.com/cricket-stadiums/edgbaston-birmingham-50"
+  },
+  {
+    "name": "Lalbhai Contractor Stadium, Vesu, Surat",
+    "url": "https://www.cricket.com/cricket-stadiums/lalbhai-contractor-stadium-vesu-surat-245"
+  },
+  {
+    "name": "Moti Bagh Stadium, Vadodara",
+    "url": "https://www.cricket.com/cricket-stadiums/moti-bagh-stadium-vadodara-99"
+  },
+  {
+    "name": "R.Premadasa Stadium, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/r-premadasa-stadium-colombo-131"
+  },
+  {
+    "name": "Riverside Ground, Chester-le-Street",
+    "url": "https://www.cricket.com/cricket-stadiums/riverside-ground-chester-le-street-135"
+  },
+  {
+    "name": "Mahinda Rajapaksa International Cricket Stadium, Hambantota",
+    "url": "https://www.cricket.com/cricket-stadiums/mahinda-rajapaksa-international-cricket-stadium-hambantota-511"
+  },
+  {
+    "name": "National Bank of Pakistan Sports Complex, Karachi",
+    "url": "https://www.cricket.com/cricket-stadiums/national-bank-of-pakistan-sports-complex-karachi-542"
+  },
+  {
+    "name": "Kabul International Cricket Stadium, Kabul",
+    "url": "https://www.cricket.com/cricket-stadiums/kabul-international-cricket-stadium-kabul-1920"
+  },
+  {
+    "name": "Shoaib Akhtar Cricket Stadium, Rawalpindi",
+    "url": "https://www.cricket.com/cricket-stadiums/shoaib-akhtar-cricket-stadium-rawalpindi-1104"
+  },
+  {
+    "name": "Adelaide Oval, Adelaide",
+    "url": "https://www.cricket.com/cricket-stadiums/adelaide-oval-adelaide-1"
+  },
+  {
+    "name": "Headingley, Leeds",
+    "url": "https://www.cricket.com/cricket-stadiums/headingley-leeds-65"
+  },
+  {
+    "name": "Sophia Gardens, Cardiff",
+    "url": "https://www.cricket.com/cricket-stadiums/sophia-gardens-cardiff-149"
+  },
+  {
+    "name": "Hampshire Bowl, Southampton",
+    "url": "https://www.cricket.com/cricket-stadiums/hampshire-bowl-southampton-159"
+  },
+  {
+    "name": "Bert Sutcliffe Oval, Lincoln",
+    "url": "https://www.cricket.com/cricket-stadiums/bert-sutcliffe-oval-lincoln-284"
+  },
+  {
+    "name": "Guyana National Stadium, Guyana",
+    "url": "https://www.cricket.com/cricket-stadiums/guyana-national-stadium-guyana-179"
+  },
+  {
+    "name": "West End Park International Cricket Stadium, Doha",
+    "url": "https://www.cricket.com/cricket-stadiums/west-end-park-international-cricket-stadium-doha-1840"
+  },
+  {
+    "name": "United Bank Ltd Sports Complex, Karachi",
+    "url": "https://www.cricket.com/cricket-stadiums/united-bank-ltd-sports-complex-karachi-554"
+  },
+  {
+    "name": "North Sydney Oval, Sydney",
+    "url": "https://www.cricket.com/cricket-stadiums/north-sydney-oval-sydney-386"
+  },
+  {
+    "name": "Kingsmead, Durban",
+    "url": "https://www.cricket.com/cricket-stadiums/kingsmead-durban-84"
+  },
+  {
+    "name": "Reliance Stadium, Vadodara",
+    "url": "https://www.cricket.com/cricket-stadiums/reliance-stadium-vadodara-66"
+  },
+  {
+    "name": "Melbourne Cricket Ground (MCG), Melbourne",
+    "url": "https://www.cricket.com/cricket-stadiums/melbourne-cricket-ground-mcg-melbourne-96"
+  },
+  {
+    "name": "Gaddafi Stadium, Lahore",
+    "url": "https://www.cricket.com/cricket-stadiums/gaddafi-stadium-lahore-55"
+  },
+  {
+    "name": "Willowmoore Park A, Benoni",
+    "url": "https://www.cricket.com/cricket-stadiums/willowmoore-park-a-benoni-451"
+  },
+  {
+    "name": "Allan Border Field, Brisbane",
+    "url": "https://www.cricket.com/cricket-stadiums/allan-border-field-brisbane-271"
+  },
+  {
+    "name": "The Cooper Associates County Ground, Taunton",
+    "url": "https://www.cricket.com/cricket-stadiums/the-cooper-associates-county-ground-taunton-40"
+  },
+  {
+    "name": "Abbottabad Cricket Stadium, Abbottabad",
+    "url": "https://www.cricket.com/cricket-stadiums/abbottabad-cricket-stadium-abbottabad-595"
+  },
+  {
+    "name": "M.Chinnaswamy Stadium, Bengaluru",
+    "url": "https://www.cricket.com/cricket-stadiums/m-chinnaswamy-stadium-bengaluru-90"
+  },
+  {
+    "name": "Zahur Ahmed Chowdhury Stadium, Chattogram",
+    "url": "https://www.cricket.com/cricket-stadiums/zahur-ahmed-chowdhury-stadium-chattogram-181"
+  },
+  {
+    "name": "Old Trafford Cricket Ground, Manchester",
+    "url": "https://www.cricket.com/cricket-stadiums/old-trafford-cricket-ground-manchester-117"
+  },
+  {
+    "name": "Cazaly's Stadium, Cairns",
+    "url": "https://www.cricket.com/cricket-stadiums/cazaly-s-stadium-cairns-26"
+  },
+  {
+    "name": "ICC Academy, Dubai",
+    "url": "https://www.cricket.com/cricket-stadiums/icc-academy-dubai-1036"
+  },
+  {
+    "name": "Recreation Ground, Oudtshoorn",
+    "url": "https://www.cricket.com/cricket-stadiums/recreation-ground-oudtshoorn-1446"
+  },
+  {
+    "name": "Marvel Stadium, Melbourne",
+    "url": "https://www.cricket.com/cricket-stadiums/marvel-stadium-melbourne-34"
+  },
+  {
+    "name": "Maharashtra Cricket Association Stadium, Pune",
+    "url": "https://www.cricket.com/cricket-stadiums/maharashtra-cricket-association-stadium-pune-1763"
+  },
+  {
+    "name": "Zayed Cricket Stadium, Abu Dhabi",
+    "url": "https://www.cricket.com/cricket-stadiums/zayed-cricket-stadium-abu-dhabi-174"
+  },
+  {
+    "name": "Khan Saheb Osman Ali Outer Stadium, Fatullah",
+    "url": "https://www.cricket.com/cricket-stadiums/khan-saheb-osman-ali-outer-stadium-fatullah-481"
+  },
+  {
+    "name": "Barabati Stadium, Cuttack",
+    "url": "https://www.cricket.com/cricket-stadiums/barabati-stadium-cuttack-12"
+  },
+  {
+    "name": "Cello Basin Reserve, Wellington",
+    "url": "https://www.cricket.com/cricket-stadiums/cello-basin-reserve-wellington-14"
+  },
+  {
+    "name": "MA Aziz Stadium, Chittagong",
+    "url": "https://www.cricket.com/cricket-stadiums/ma-aziz-stadium-chittagong-31"
+  },
+  {
+    "name": "County Ground, Northampton",
+    "url": "https://www.cricket.com/cricket-stadiums/county-ground-northampton-38"
+  },
+  {
+    "name": "Sheikh Abu Naser Stadium, Khulna",
+    "url": "https://www.cricket.com/cricket-stadiums/sheikh-abu-naser-stadium-khulna-83"
+  },
+  {
+    "name": "County Ground, Derby",
+    "url": "https://www.cricket.com/cricket-stadiums/county-ground-derby-35"
+  },
+  {
+    "name": "Arun Jaitley Stadium, Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/arun-jaitley-stadium-delhi-54"
+  },
+  {
+    "name": "Mangaung Oval, Bloemfontein",
+    "url": "https://www.cricket.com/cricket-stadiums/mangaung-oval-bloemfontein-59"
+  },
+  {
+    "name": "AMI Stadium, Christchurch",
+    "url": "https://www.cricket.com/cricket-stadiums/ami-stadium-christchurch-70"
+  },
+  {
+    "name": "Nehru Stadium, Indore",
+    "url": "https://www.cricket.com/cricket-stadiums/nehru-stadium-indore-72"
+  },
+  {
+    "name": "Colombo Cricket Club Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/colombo-cricket-club-ground-colombo-33"
+  },
+  {
+    "name": "Eden Park, Auckland",
+    "url": "https://www.cricket.com/cricket-stadiums/eden-park-auckland-49"
+  },
+  {
+    "name": "Uptonsteel County Ground, Leicester",
+    "url": "https://www.cricket.com/cricket-stadiums/uptonsteel-county-ground-leicester-60"
+  },
+  {
+    "name": "Harare Sports Club, Harare",
+    "url": "https://www.cricket.com/cricket-stadiums/harare-sports-club-harare-63"
+  },
+  {
+    "name": "W.A.C.A. Ground, Perth",
+    "url": "https://www.cricket.com/cricket-stadiums/w-a-c-a-ground-perth-167"
+  },
+  {
+    "name": "Boland Park, Paarl",
+    "url": "https://www.cricket.com/cricket-stadiums/boland-park-paarl-18"
+  },
+  {
+    "name": "Bourda, Georgetown, Guyana",
+    "url": "https://www.cricket.com/cricket-stadiums/bourda-georgetown-guyana-19"
+  },
+  {
+    "name": "Nehru Stadium, Guwahati",
+    "url": "https://www.cricket.com/cricket-stadiums/nehru-stadium-guwahati-71"
+  },
+  {
+    "name": "Antigua Recreation Ground, St. John's",
+    "url": "https://www.cricket.com/cricket-stadiums/antigua-recreation-ground-st-john-s-4"
+  },
+  {
+    "name": "Bangabandhu National Stadium, Dhaka",
+    "url": "https://www.cricket.com/cricket-stadiums/bangabandhu-national-stadium-dhaka-11"
+  },
+  {
+    "name": "Cambusdoon New Ground, Ayrshire",
+    "url": "https://www.cricket.com/cricket-stadiums/cambusdoon-new-ground-ayrshire-27"
+  },
+  {
+    "name": "Carisbrook, Dunedin",
+    "url": "https://www.cricket.com/cricket-stadiums/carisbrook-dunedin-29"
+  },
+  {
+    "name": "Clontarf Cricket Club, Dublin",
+    "url": "https://www.cricket.com/cricket-stadiums/clontarf-cricket-club-dublin-30"
+  },
+  {
+    "name": "The County Ground, New Road, Worcester",
+    "url": "https://www.cricket.com/cricket-stadiums/the-county-ground-new-road-worcester-37"
+  },
+  {
+    "name": "County Ground, Chelmsford",
+    "url": "https://www.cricket.com/cricket-stadiums/county-ground-chelmsford-36"
+  },
+  {
+    "name": "Sheikh Kamal International Cricket Stadium, Cox's Bazar",
+    "url": "https://www.cricket.com/cricket-stadiums/sheikh-kamal-international-cricket-stadium-cox-s-bazar-1845"
+  },
+  {
+    "name": "Nehru Stadium, Kochi",
+    "url": "https://www.cricket.com/cricket-stadiums/nehru-stadium-kochi-73"
+  },
+  {
+    "name": "Jinnah Stadium, Gujranwala",
+    "url": "https://www.cricket.com/cricket-stadiums/jinnah-stadium-gujranwala-76"
+  },
+  {
+    "name": "Civil Service Cricket Club, Belfast",
+    "url": "https://www.cricket.com/cricket-stadiums/civil-service-cricket-club-belfast-32"
+  },
+  {
+    "name": "The Gabba, Brisbane",
+    "url": "https://www.cricket.com/cricket-stadiums/the-gabba-brisbane-22"
+  },
+  {
+    "name": "Asgiriya Stadium, Kandy",
+    "url": "https://www.cricket.com/cricket-stadiums/asgiriya-stadium-kandy-7"
+  },
+  {
+    "name": "Bellerive Oval, Hobart",
+    "url": "https://www.cricket.com/cricket-stadiums/bellerive-oval-hobart-16"
+  },
+  {
+    "name": "Shahid Kamruzzaman Stadium, Rajshahi",
+    "url": "https://www.cricket.com/cricket-stadiums/shahid-kamruzzaman-stadium-rajshahi-492"
+  },
+  {
+    "name": "Khan Shaheb Osman Ali Stadium, Fatullah",
+    "url": "https://www.cricket.com/cricket-stadiums/khan-shaheb-osman-ali-stadium-fatullah-53"
+  },
+  {
+    "name": "Indira Priyadarshini Stadium, Visakhapatnam",
+    "url": "https://www.cricket.com/cricket-stadiums/indira-priyadarshini-stadium-visakhapatnam-68"
+  },
+  {
+    "name": "Wankhede Stadium, Mumbai",
+    "url": "https://www.cricket.com/cricket-stadiums/wankhede-stadium-mumbai-168"
+  },
+  {
+    "name": "St George's Park, Gqeberha",
+    "url": "https://www.cricket.com/cricket-stadiums/st-george-s-park-gqeberha-150"
+  },
+  {
+    "name": "Eden Gardens, Kolkata",
+    "url": "https://www.cricket.com/cricket-stadiums/eden-gardens-kolkata-48"
+  },
+  {
+    "name": "Brabourne Stadium, Mumbai",
+    "url": "https://www.cricket.com/cricket-stadiums/brabourne-stadium-mumbai-20"
+  },
+  {
+    "name": "Arbab Niaz Stadium, Peshawar",
+    "url": "https://www.cricket.com/cricket-stadiums/arbab-niaz-stadium-peshawar-5"
+  },
+  {
+    "name": "Daren Sammy National Cricket Stadium, Gros Islet",
+    "url": "https://www.cricket.com/cricket-stadiums/daren-sammy-national-cricket-stadium-gros-islet-15"
+  },
+  {
+    "name": "Galle International Stadium, Galle",
+    "url": "https://www.cricket.com/cricket-stadiums/galle-international-stadium-galle-56"
+  },
+  {
+    "name": "Green Park, Kanpur",
+    "url": "https://www.cricket.com/cricket-stadiums/green-park-kanpur-61"
+  },
+  {
+    "name": "Shere Bangla National Stadium, Mirpur",
+    "url": "https://www.cricket.com/cricket-stadiums/shere-bangla-national-stadium-mirpur-145"
+  },
+  {
+    "name": "Iqbal Stadium, Faisalabad",
+    "url": "https://www.cricket.com/cricket-stadiums/iqbal-stadium-faisalabad-69"
+  },
+  {
+    "name": "Dubai International Stadium, Dubai",
+    "url": "https://www.cricket.com/cricket-stadiums/dubai-international-stadium-dubai-449"
+  },
+  {
+    "name": "Barkatullah Khan Stadium, Jodhpur",
+    "url": "https://www.cricket.com/cricket-stadiums/barkatullah-khan-stadium-jodhpur-13"
+  },
+  {
+    "name": "Buffalo Park, East London",
+    "url": "https://www.cricket.com/cricket-stadiums/buffalo-park-east-london-23"
+  },
+  {
+    "name": "Captain Roop Singh Stadium, Gwalior",
+    "url": "https://www.cricket.com/cricket-stadiums/captain-roop-singh-stadium-gwalior-28"
+  },
+  {
+    "name": "John Davies Oval, Queenstown",
+    "url": "https://www.cricket.com/cricket-stadiums/john-davies-oval-queenstown-77"
+  },
+  {
+    "name": "Nairobi Gymkhana Club Ground, Nairobi",
+    "url": "https://www.cricket.com/cricket-stadiums/nairobi-gymkhana-club-ground-nairobi-103"
+  },
+  {
+    "name": "Pukekura Park, New Plymouth",
+    "url": "https://www.cricket.com/cricket-stadiums/pukekura-park-new-plymouth-124"
+  },
+  {
+    "name": "MA Chidambaram Stadium, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/ma-chidambaram-stadium-chennai-91"
+  },
+  {
+    "name": "Dr. DY Patil Sports Academy, Navi Mumbai",
+    "url": "https://www.cricket.com/cricket-stadiums/dr-dy-patil-sports-academy-navi-mumbai-219"
+  },
+  {
+    "name": "Rawalpindi Cricket Stadium, Rawalpindi",
+    "url": "https://www.cricket.com/cricket-stadiums/rawalpindi-cricket-stadium-rawalpindi-134"
+  },
+  {
+    "name": "Sector 16 Stadium, Chandigarh",
+    "url": "https://www.cricket.com/cricket-stadiums/sector-16-stadium-chandigarh-140"
+  },
+  {
+    "name": "Sir Vivian Richards Stadium North Sound, Saint Peters",
+    "url": "https://www.cricket.com/cricket-stadiums/sir-vivian-richards-stadium-north-sound-saint-peters-148"
+  },
+  {
+    "name": "Hurstville Oval, Sydney",
+    "url": "https://www.cricket.com/cricket-stadiums/hurstville-oval-sydney-336"
+  },
+  {
+    "name": "C.ex Coffs International Stadium, Coffs Harbour",
+    "url": "https://www.cricket.com/cricket-stadiums/c-ex-coffs-international-stadium-coffs-harbour-1050"
+  },
+  {
+    "name": "Traeger Park, Alice Springs",
+    "url": "https://www.cricket.com/cricket-stadiums/traeger-park-alice-springs-1650"
+  },
+  {
+    "name": "Bay Oval, Mount Maunganui",
+    "url": "https://www.cricket.com/cricket-stadiums/bay-oval-mount-maunganui-1795"
+  },
+  {
+    "name": "Sheikh Kamal International Cricket Stadium Academy Ground, Cox's Bazar",
+    "url": "https://www.cricket.com/cricket-stadiums/sheikh-kamal-international-cricket-stadium-academy-ground-cox-s-bazar-1886"
+  },
+  {
+    "name": "Amanullah Khan International Cricket Stadium, Amanullah",
+    "url": "https://www.cricket.com/cricket-stadiums/amanullah-khan-international-cricket-stadium-amanullah-1917"
+  },
+  {
+    "name": "State Bank of Pakistan Sports Complex, Karachi",
+    "url": "https://www.cricket.com/cricket-stadiums/state-bank-of-pakistan-sports-complex-karachi-1894"
+  },
+  {
+    "name": "De Zoysa Stadium, Moratuwa",
+    "url": "https://www.cricket.com/cricket-stadiums/de-zoysa-stadium-moratuwa-162"
+  },
+  {
+    "name": "Air Force Ground, Katunayake",
+    "url": "https://www.cricket.com/cricket-stadiums/air-force-ground-katunayake-469"
+  },
+  {
+    "name": "Affies Park, Windhoek",
+    "url": "https://www.cricket.com/cricket-stadiums/affies-park-windhoek-1864"
+  },
+  {
+    "name": "Chatsworth Stadium, Durban",
+    "url": "https://www.cricket.com/cricket-stadiums/chatsworth-stadium-durban-775"
+  },
+  {
+    "name": "Sardar Vallabhai Patel Stadium, Valsad",
+    "url": "https://www.cricket.com/cricket-stadiums/sardar-vallabhai-patel-stadium-valsad-254"
+  },
+  {
+    "name": "Colwyn Bay Cricket Club Ground, Colwyn Bay",
+    "url": "https://www.cricket.com/cricket-stadiums/colwyn-bay-cricket-club-ground-colwyn-bay-1343"
+  },
+  {
+    "name": "Army Ground, Panagoda",
+    "url": "https://www.cricket.com/cricket-stadiums/army-ground-panagoda-640"
+  },
+  {
+    "name": "Seddon Park, Hamilton",
+    "url": "https://www.cricket.com/cricket-stadiums/seddon-park-hamilton-170"
+  },
+  {
+    "name": "Titwood, Glasgow",
+    "url": "https://www.cricket.com/cricket-stadiums/titwood-glasgow-184"
+  },
+  {
+    "name": "Castle Park Cricket Ground, Colchester",
+    "url": "https://www.cricket.com/cricket-stadiums/castle-park-cricket-ground-colchester-755"
+  },
+  {
+    "name": "Rugby School Ground, Warwickshire",
+    "url": "https://www.cricket.com/cricket-stadiums/rugby-school-ground-warwickshire-1827"
+  },
+  {
+    "name": "Bay Oval No2, Mount Maunganui",
+    "url": "https://www.cricket.com/cricket-stadiums/bay-oval-no2-mount-maunganui-1842"
+  },
+  {
+    "name": "Sparta Recreational Club, Walvis Bay",
+    "url": "https://www.cricket.com/cricket-stadiums/sparta-recreational-club-walvis-bay-1878"
+  },
+  {
+    "name": "Krishnagiri Stadium, Wayanad",
+    "url": "https://www.cricket.com/cricket-stadiums/krishnagiri-stadium-wayanad-1861"
+  },
+  {
+    "name": "West Park Oval, Burnie",
+    "url": "https://www.cricket.com/cricket-stadiums/west-park-oval-burnie-1285"
+  },
+  {
+    "name": "Taunton Vale Sports Club Ground, Taunton",
+    "url": "https://www.cricket.com/cricket-stadiums/taunton-vale-sports-club-ground-taunton-461"
+  },
+  {
+    "name": "Holkar Cricket Stadium, Indore",
+    "url": "https://www.cricket.com/cricket-stadiums/holkar-cricket-stadium-indore-92"
+  },
+  {
+    "name": "P Sara Oval, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/p-sara-oval-colombo-120"
+  },
+  {
+    "name": "College Ground, Cheltenham",
+    "url": "https://www.cricket.com/cricket-stadiums/college-ground-cheltenham-227"
+  },
+  {
+    "name": "North-West University No1 Ground, Potchefstroom",
+    "url": "https://www.cricket.com/cricket-stadiums/north-west-university-no1-ground-potchefstroom-456"
+  },
+  {
+    "name": "Perintalmanna Cricket Stadium, Malappuram",
+    "url": "https://www.cricket.com/cricket-stadiums/perintalmanna-cricket-stadium-malappuram-582"
+  },
+  {
+    "name": "FP Fenner's Ground, Cambridge",
+    "url": "https://www.cricket.com/cricket-stadiums/fp-fenner-s-ground-cambridge-313"
+  },
+  {
+    "name": "The Wanderers Stadium, Johannesburg",
+    "url": "https://www.cricket.com/cricket-stadiums/the-wanderers-stadium-johannesburg-111"
+  },
+  {
+    "name": "Warner Park, Basseterre",
+    "url": "https://www.cricket.com/cricket-stadiums/warner-park-basseterre-169"
+  },
+  {
+    "name": "United Cricket Club Ground, Windhoek",
+    "url": "https://www.cricket.com/cricket-stadiums/united-cricket-club-ground-windhoek-194"
+  },
+  {
+    "name": "Maple Leaf North-West Ground(A), King City",
+    "url": "https://www.cricket.com/cricket-stadiums/maple-leaf-north-west-ground-a-king-city-222"
+  },
+  {
+    "name": "Hagley Oval, Christchurch",
+    "url": "https://www.cricket.com/cricket-stadiums/hagley-oval-christchurch-325"
+  },
+  {
+    "name": "Sylhet International Cricket Stadium, Sylhet",
+    "url": "https://www.cricket.com/cricket-stadiums/sylhet-international-cricket-stadium-sylhet-1592"
+  },
+  {
+    "name": "Radlett Cricket Club, Radlett",
+    "url": "https://www.cricket.com/cricket-stadiums/radlett-cricket-club-radlett-1826"
+  },
+  {
+    "name": "Tin Kwong Road Recreation Ground, Mong Kok",
+    "url": "https://www.cricket.com/cricket-stadiums/tin-kwong-road-recreation-ground-mong-kok-1889"
+  },
+  {
+    "name": "Colts Cricket Club Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/colts-cricket-club-ground-colombo-300"
+  },
+  {
+    "name": "Nondescripts Cricket Club, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/nondescripts-cricket-club-colombo-488"
+  },
+  {
+    "name": "Bengal Cricket Academy Ground, Kalyani, West Bengal",
+    "url": "https://www.cricket.com/cricket-stadiums/bengal-cricket-academy-ground-kalyani-west-bengal-1860"
+  },
+  {
+    "name": "Colin Maiden Park, Auckland",
+    "url": "https://www.cricket.com/cricket-stadiums/colin-maiden-park-auckland-479"
+  },
+  {
+    "name": "Bristol County Ground, Bristol",
+    "url": "https://www.cricket.com/cricket-stadiums/bristol-county-ground-bristol-160"
+  },
+  {
+    "name": "Sky Stadium, Wellington",
+    "url": "https://www.cricket.com/cricket-stadiums/sky-stadium-wellington-171"
+  },
+  {
+    "name": "Molyneux Park, Alexandra",
+    "url": "https://www.cricket.com/cricket-stadiums/molyneux-park-alexandra-540"
+  },
+  {
+    "name": "Barsapara Cricket Stadium, Guwahati",
+    "url": "https://www.cricket.com/cricket-stadiums/barsapara-cricket-stadium-guwahati-1837"
+  },
+  {
+    "name": "Khost Cricket Stadium, Khost",
+    "url": "https://www.cricket.com/cricket-stadiums/khost-cricket-stadium-khost-1916"
+  },
+  {
+    "name": "Surrey Village Ground, Maggona, Kalutara",
+    "url": "https://www.cricket.com/cricket-stadiums/surrey-village-ground-maggona-kalutara-1820"
+  },
+  {
+    "name": "Bloomfield Cricket and Athletic Club Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/bloomfield-cricket-and-athletic-club-ground-colombo-694"
+  },
+  {
+    "name": "Welbeck Abbey Cricket Ground, Welbeck",
+    "url": "https://www.cricket.com/cricket-stadiums/welbeck-abbey-cricket-ground-welbeck-1713"
+  },
+  {
+    "name": "McLean Park, Napier",
+    "url": "https://www.cricket.com/cricket-stadiums/mclean-park-napier-95"
+  },
+  {
+    "name": "Owen Delany Park, Taupo",
+    "url": "https://www.cricket.com/cricket-stadiums/owen-delany-park-taupo-119"
+  },
+  {
+    "name": "Queens Sports Club, Bulawayo",
+    "url": "https://www.cricket.com/cricket-stadiums/queens-sports-club-bulawayo-129"
+  },
+  {
+    "name": "Sydney Cricket Ground (SCG), Sydney",
+    "url": "https://www.cricket.com/cricket-stadiums/sydney-cricket-ground-scg-sydney-154"
+  },
+  {
+    "name": "Hazelaarweg Stadion, Rotterdam",
+    "url": "https://www.cricket.com/cricket-stadiums/hazelaarweg-stadion-rotterdam-183"
+  },
+  {
+    "name": "Tony Ireland Stadium, Townsville",
+    "url": "https://www.cricket.com/cricket-stadiums/tony-ireland-stadium-townsville-519"
+  },
+  {
+    "name": "Southend Club Cricket Stadium, Karachi",
+    "url": "https://www.cricket.com/cricket-stadiums/southend-club-cricket-stadium-karachi-550"
+  },
+  {
+    "name": "JSCA International Stadium Complex, Ranchi",
+    "url": "https://www.cricket.com/cricket-stadiums/jsca-international-stadium-complex-ranchi-581"
+  },
+  {
+    "name": "Tribhuvan University International Cricket Ground, Kirtipur",
+    "url": "https://www.cricket.com/cricket-stadiums/tribhuvan-university-international-cricket-ground-kirtipur-1654"
+  },
+  {
+    "name": "Maharaja Bir Bikram College Stadium, Agartala",
+    "url": "https://www.cricket.com/cricket-stadiums/maharaja-bir-bikram-college-stadium-agartala-249"
+  },
+  {
+    "name": "KIIT Stadium, Bhubaneswar",
+    "url": "https://www.cricket.com/cricket-stadiums/kiit-stadium-bhubaneswar-1867"
+  },
+  {
+    "name": "Gandhi Memorial Science College Ground, Jammu",
+    "url": "https://www.cricket.com/cricket-stadiums/gandhi-memorial-science-college-ground-jammu-513"
+  },
+  {
+    "name": "Woodbridge Road, Guildford",
+    "url": "https://www.cricket.com/cricket-stadiums/woodbridge-road-guildford-444"
+  },
+  {
+    "name": "Nehru Stadium, Pune",
+    "url": "https://www.cricket.com/cricket-stadiums/nehru-stadium-pune-108"
+  },
+  {
+    "name": "TIO Stadium, Darwin",
+    "url": "https://www.cricket.com/cricket-stadiums/tio-stadium-darwin-94"
+  },
+  {
+    "name": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "url": "https://www.cricket.com/cricket-stadiums/himachal-pradesh-cricket-association-stadium-dharamsala-248"
+  },
+  {
+    "name": "Kennards Hire Community Oval, Auckland",
+    "url": "https://www.cricket.com/cricket-stadiums/kennards-hire-community-oval-auckland-311"
+  },
+  {
+    "name": "FTZ Sports Complex (BOI), Katunayake",
+    "url": "https://www.cricket.com/cricket-stadiums/ftz-sports-complex-boi-katunayake-946"
+  },
+  {
+    "name": "Bangladesh Krira Shikkha Protisthan No 3 Ground, Savar",
+    "url": "https://www.cricket.com/cricket-stadiums/bangladesh-krira-shikkha-protisthan-no-3-ground-savar-1791"
+  },
+  {
+    "name": "NPR College Ground, Dindigul",
+    "url": "https://www.cricket.com/cricket-stadiums/npr-college-ground-dindigul-1862"
+  },
+  {
+    "name": "Moors Sports Club Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/moors-sports-club-ground-colombo-377"
+  },
+  {
+    "name": "Old Deer Park, Richmond",
+    "url": "https://www.cricket.com/cricket-stadiums/old-deer-park-richmond-232"
+  },
+  {
+    "name": "The Parks, Oxford",
+    "url": "https://www.cricket.com/cricket-stadiums/the-parks-oxford-1766"
+  },
+  {
+    "name": "Multan Cricket Stadium, Multan",
+    "url": "https://www.cricket.com/cricket-stadiums/multan-cricket-stadium-multan-100"
+  },
+  {
+    "name": "County Ground, Hove",
+    "url": "https://www.cricket.com/cricket-stadiums/county-ground-hove-110"
+  },
+  {
+    "name": "North Marine Road Ground, Scarborough",
+    "url": "https://www.cricket.com/cricket-stadiums/north-marine-road-ground-scarborough-114"
+  },
+  {
+    "name": "Kensington Oval, Bridgetown",
+    "url": "https://www.cricket.com/cricket-stadiums/kensington-oval-bridgetown-82"
+  },
+  {
+    "name": "Keenan Stadium, Jamshedpur",
+    "url": "https://www.cricket.com/cricket-stadiums/keenan-stadium-jamshedpur-80"
+  },
+  {
+    "name": "National Cricket Stadium, St George's",
+    "url": "https://www.cricket.com/cricket-stadiums/national-cricket-stadium-st-george-s-126"
+  },
+  {
+    "name": "Sharjah Cricket Stadium, Sharjah",
+    "url": "https://www.cricket.com/cricket-stadiums/sharjah-cricket-stadium-sharjah-143"
+  },
+  {
+    "name": "Simba Union Ground, Nairobi",
+    "url": "https://www.cricket.com/cricket-stadiums/simba-union-ground-nairobi-189"
+  },
+  {
+    "name": "Vidarbha Cricket Association Ground, Nagpur",
+    "url": "https://www.cricket.com/cricket-stadiums/vidarbha-cricket-association-ground-nagpur-244"
+  },
+  {
+    "name": "Srikantadatta Narasimha Raja Wadeyar Ground, Mysore",
+    "url": "https://www.cricket.com/cricket-stadiums/srikantadatta-narasimha-raja-wadeyar-ground-mysore-250"
+  },
+  {
+    "name": "Sportpark Het Schootsveld, Deventer",
+    "url": "https://www.cricket.com/cricket-stadiums/sportpark-het-schootsveld-deventer-332"
+  },
+  {
+    "name": "VCC Voorburg",
+    "url": "https://www.cricket.com/cricket-stadiums/vcc-voorburg-408"
+  },
+  {
+    "name": "Tshwane University of Technology Oval, Pretoria",
+    "url": "https://www.cricket.com/cricket-stadiums/tshwane-university-of-technology-oval-pretoria-430"
+  },
+  {
+    "name": "Terdthai Cricket Ground, Bangkok",
+    "url": "https://www.cricket.com/cricket-stadiums/terdthai-cricket-ground-bangkok-1872"
+  },
+  {
+    "name": "Lal Bahadur Shastri Stadium, Hyderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/lal-bahadur-shastri-stadium-hyderabad-86"
+  },
+  {
+    "name": "Grange Cricket Club, Edinburgh",
+    "url": "https://www.cricket.com/cricket-stadiums/grange-cricket-club-edinburgh-132"
+  },
+  {
+    "name": "Mombasa Sports Club Ground, Mombasa",
+    "url": "https://www.cricket.com/cricket-stadiums/mombasa-sports-club-ground-mombasa-175"
+  },
+  {
+    "name": "Mannofield Park, Aberdeen",
+    "url": "https://www.cricket.com/cricket-stadiums/mannofield-park-aberdeen-191"
+  },
+  {
+    "name": "Aigburth, Liverpool",
+    "url": "https://www.cricket.com/cricket-stadiums/aigburth-liverpool-224"
+  },
+  {
+    "name": "The Kent County Cricket Ground, New Beckenham, Beckenham",
+    "url": "https://www.cricket.com/cricket-stadiums/the-kent-county-cricket-ground-new-beckenham-beckenham-230"
+  },
+  {
+    "name": "Central Broward Park & Broward County Stadium, Lauderhill",
+    "url": "https://www.cricket.com/cricket-stadiums/central-broward-park-broward-county-stadium-lauderhill-570"
+  },
+  {
+    "name": "Queen's Park, Invercargill",
+    "url": "https://www.cricket.com/cricket-stadiums/queen-s-park-invercargill-573"
+  },
+  {
+    "name": "Orban Park, University of Johannesburg, Johannesburg",
+    "url": "https://www.cricket.com/cricket-stadiums/orban-park-university-of-johannesburg-johannesburg-599"
+  },
+  {
+    "name": "St Helen's, Swansea",
+    "url": "https://www.cricket.com/cricket-stadiums/st-helen-s-swansea-151"
+  },
+  {
+    "name": "I.S. Bindra Punjab Cricket Association Stadium, Mohali",
+    "url": "https://www.cricket.com/cricket-stadiums/i-s-bindra-punjab-cricket-association-stadium-mohali-125"
+  },
+  {
+    "name": "Sinhalese Sports Club, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/sinhalese-sports-club-colombo-147"
+  },
+  {
+    "name": "Arundel Castle Cricket Club Ground, Arundel",
+    "url": "https://www.cricket.com/cricket-stadiums/arundel-castle-cricket-club-ground-arundel-226"
+  },
+  {
+    "name": "Niranjan Shah Stadium, Rajkot",
+    "url": "https://www.cricket.com/cricket-stadiums/niranjan-shah-stadium-rajkot-246"
+  },
+  {
+    "name": "Bandra Kurla Complex Sharad Pawar Cricket Academy, Mumbai",
+    "url": "https://www.cricket.com/cricket-stadiums/bandra-kurla-complex-sharad-pawar-cricket-academy-mumbai-258"
+  },
+  {
+    "name": "Old Hararians, Harare",
+    "url": "https://www.cricket.com/cricket-stadiums/old-hararians-harare-1305"
+  },
+  {
+    "name": "Blacktown International Sportspark, Sydney",
+    "url": "https://www.cricket.com/cricket-stadiums/blacktown-international-sportspark-sydney-1787"
+  },
+  {
+    "name": "University of Free State Ground, Bloemfontein",
+    "url": "https://www.cricket.com/cricket-stadiums/university-of-free-state-ground-bloemfontein-1793"
+  },
+  {
+    "name": "Lincoln No 3, Lincoln",
+    "url": "https://www.cricket.com/cricket-stadiums/lincoln-no-3-lincoln-362"
+  },
+  {
+    "name": "Driems Ground, Cuttack",
+    "url": "https://www.cricket.com/cricket-stadiums/driems-ground-cuttack-1761"
+  },
+  {
+    "name": "KSCA Hubli Cricket Ground, Hubli",
+    "url": "https://www.cricket.com/cricket-stadiums/ksca-hubli-cricket-ground-hubli-1821"
+  },
+  {
+    "name": "Indira Gandhi Stadium, Vijayawada",
+    "url": "https://www.cricket.com/cricket-stadiums/indira-gandhi-stadium-vijayawada-186"
+  },
+  {
+    "name": "Uxbridge Cricket Club Ground, Uxbridge",
+    "url": "https://www.cricket.com/cricket-stadiums/uxbridge-cricket-club-ground-uxbridge-225"
+  },
+  {
+    "name": "Sir Paul Getty's Ground, Wormsley",
+    "url": "https://www.cricket.com/cricket-stadiums/sir-paul-getty-s-ground-wormsley-464"
+  },
+  {
+    "name": "Pallekele International Cricket Stadium, Kandy",
+    "url": "https://www.cricket.com/cricket-stadiums/pallekele-international-cricket-stadium-kandy-543"
+  },
+  {
+    "name": "Bulawayo Athletic Club, Bulawayo",
+    "url": "https://www.cricket.com/cricket-stadiums/bulawayo-athletic-club-bulawayo-25"
+  },
+  {
+    "name": "Navy Ground, Welisara",
+    "url": "https://www.cricket.com/cricket-stadiums/navy-ground-welisara-1255"
+  },
+  {
+    "name": "Bughti Stadium, Quetta",
+    "url": "https://www.cricket.com/cricket-stadiums/bughti-stadium-quetta-24"
+  },
+  {
+    "name": "Police Park, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/police-park-colombo-490"
+  },
+  {
+    "name": "Irene Villagers Cricket Club, Pretoria",
+    "url": "https://www.cricket.com/cricket-stadiums/irene-villagers-cricket-club-pretoria-1887"
+  },
+  {
+    "name": "Manuka Oval, Canberra",
+    "url": "https://www.cricket.com/cricket-stadiums/manuka-oval-canberra-93"
+  },
+  {
+    "name": "Vidarbha Cricket Association Stadium, Nagpur",
+    "url": "https://www.cricket.com/cricket-stadiums/vidarbha-cricket-association-stadium-nagpur-165"
+  },
+  {
+    "name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "url": "https://www.cricket.com/cricket-stadiums/dr-y-s-rajasekhara-reddy-aca-vdca-cricket-stadium-visakhapatnam-185"
+  },
+  {
+    "name": "Cobham Oval (New), Whangarei",
+    "url": "https://www.cricket.com/cricket-stadiums/cobham-oval-new-whangarei-297"
+  },
+  {
+    "name": "Sportpark Thurlede, Schiedam",
+    "url": "https://www.cricket.com/cricket-stadiums/sportpark-thurlede-schiedam-575"
+  },
+  {
+    "name": "Moses Mabhida Stadium, Durban",
+    "url": "https://www.cricket.com/cricket-stadiums/moses-mabhida-stadium-durban-577"
+  },
+  {
+    "name": "North Dalton Park, Wollongong",
+    "url": "https://www.cricket.com/cricket-stadiums/north-dalton-park-wollongong-1281"
+  },
+  {
+    "name": "Burgher Recreation Club Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/burgher-recreation-club-ground-colombo-716"
+  },
+  {
+    "name": "Sri Lanka Army Ordnance Corps International Cricket Stadium, Sri Lanka",
+    "url": "https://www.cricket.com/cricket-stadiums/sri-lanka-army-ordnance-corps-international-cricket-stadium-sri-lanka-1960"
+  },
+  {
+    "name": "Welagedara Stadium, Kurunegala",
+    "url": "https://www.cricket.com/cricket-stadiums/welagedara-stadium-kurunegala-437"
+  },
+  {
+    "name": "Ravenshaw College Ground, Cuttack",
+    "url": "https://www.cricket.com/cricket-stadiums/ravenshaw-college-ground-cuttack-450"
+  },
+  {
+    "name": "Nahar Singh Stadium, Faridabad",
+    "url": "https://www.cricket.com/cricket-stadiums/nahar-singh-stadium-faridabad-102"
+  },
+  {
+    "name": "Madhavrao Scindia Cricket Ground, Rajkot",
+    "url": "https://www.cricket.com/cricket-stadiums/madhavrao-scindia-cricket-ground-rajkot-101"
+  },
+  {
+    "name": "Sabina Park, Kingston",
+    "url": "https://www.cricket.com/cricket-stadiums/sabina-park-kingston-136"
+  },
+  {
+    "name": "Mainpower Oval, Rangiora",
+    "url": "https://www.cricket.com/cricket-stadiums/mainpower-oval-rangiora-522"
+  },
+  {
+    "name": "Boscawen Park, Truro",
+    "url": "https://www.cricket.com/cricket-stadiums/boscawen-park-truro-701"
+  },
+  {
+    "name": "Great Barrier Reef Arena, Mackay",
+    "url": "https://www.cricket.com/cricket-stadiums/great-barrier-reef-arena-mackay-64"
+  },
+  {
+    "name": "Jadavpur University Complex, Kolkata",
+    "url": "https://www.cricket.com/cricket-stadiums/jadavpur-university-complex-kolkata-262"
+  },
+  {
+    "name": "Goa Cricket Association Academy Ground, Porvorim, Goa",
+    "url": "https://www.cricket.com/cricket-stadiums/goa-cricket-association-academy-ground-porvorim-goa-864"
+  },
+  {
+    "name": "Airforce Complex ground, Palam, New Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/airforce-complex-ground-palam-new-delhi-243"
+  },
+  {
+    "name": "Arnos Vale Ground, Kingstown",
+    "url": "https://www.cricket.com/cricket-stadiums/arnos-vale-ground-kingstown-6"
+  },
+  {
+    "name": "Roseworth Terrace, Gosforth",
+    "url": "https://www.cricket.com/cricket-stadiums/roseworth-terrace-gosforth-1852"
+  },
+  {
+    "name": "Shaheed Chandu Stadium, Bogra",
+    "url": "https://www.cricket.com/cricket-stadiums/shaheed-chandu-stadium-bogra-142"
+  },
+  {
+    "name": "Nevill Ground, Tunbridge Wells",
+    "url": "https://www.cricket.com/cricket-stadiums/nevill-ground-tunbridge-wells-109"
+  },
+  {
+    "name": "The Spitfire Ground, Canterbury",
+    "url": "https://www.cricket.com/cricket-stadiums/the-spitfire-ground-canterbury-152"
+  },
+  {
+    "name": "Niaz Stadium, Hyderabad, Sind",
+    "url": "https://www.cricket.com/cricket-stadiums/niaz-stadium-hyderabad-sind-113"
+  },
+  {
+    "name": "LC de Villiers Oval, University of Pretoria, Pretoria",
+    "url": "https://www.cricket.com/cricket-stadiums/lc-de-villiers-oval-university-of-pretoria-pretoria-355"
+  },
+  {
+    "name": "Sheikhupura Stadium, Sheikhupura",
+    "url": "https://www.cricket.com/cricket-stadiums/sheikhupura-stadium-sheikhupura-144"
+  },
+  {
+    "name": "Windsor Park, Roseau",
+    "url": "https://www.cricket.com/cricket-stadiums/windsor-park-roseau-458"
+  },
+  {
+    "name": "Rajiv Gandhi International Stadium, Hyderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/rajiv-gandhi-international-stadium-hyderabad-158"
+  },
+  {
+    "name": "Wanderers Cricket Ground, Windhoek",
+    "url": "https://www.cricket.com/cricket-stadiums/wanderers-cricket-ground-windhoek-193"
+  },
+  {
+    "name": "University of Otago Oval, Dunedin",
+    "url": "https://www.cricket.com/cricket-stadiums/university-of-otago-oval-dunedin-197"
+  },
+  {
+    "name": "Amini Park, Port Moresby",
+    "url": "https://www.cricket.com/cricket-stadiums/amini-park-port-moresby-1890"
+  },
+  {
+    "name": "Bankstown Oval, Sydney",
+    "url": "https://www.cricket.com/cricket-stadiums/bankstown-oval-sydney-280"
+  },
+  {
+    "name": "Jinnah Stadium, Sialkot",
+    "url": "https://www.cricket.com/cricket-stadiums/jinnah-stadium-sialkot-75"
+  },
+  {
+    "name": "Bangladesh Krira Shikkha Protisthan No 4 Ground, Savar",
+    "url": "https://www.cricket.com/cricket-stadiums/bangladesh-krira-shikkha-protisthan-no-4-ground-savar-1844"
+  },
+  {
+    "name": "Fitzherbert Park, Palmerston North",
+    "url": "https://www.cricket.com/cricket-stadiums/fitzherbert-park-palmerston-north-315"
+  },
+  {
+    "name": "Jawaharlal Nehru National College of Engineering Ground, Shimoga",
+    "url": "https://www.cricket.com/cricket-stadiums/jawaharlal-nehru-national-college-of-engineering-ground-shimoga-1824"
+  },
+  {
+    "name": "Chaudhry Bansi Lal Cricket Stadium, Lahli, Rohtak",
+    "url": "https://www.cricket.com/cricket-stadiums/chaudhry-bansi-lal-cricket-stadium-lahli-rohtak-240"
+  },
+  {
+    "name": "Dhruve Pandove Stadium, Patiala",
+    "url": "https://www.cricket.com/cricket-stadiums/dhruve-pandove-stadium-patiala-852"
+  },
+  {
+    "name": "Karnail Singh Stadium, Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/karnail-singh-stadium-delhi-252"
+  },
+  {
+    "name": "Asian Institute of Technology Ground, Bangkok",
+    "url": "https://www.cricket.com/cricket-stadiums/asian-institute-of-technology-ground-bangkok-1873"
+  },
+  {
+    "name": "Vineyard Cricket Ground, Cape Town",
+    "url": "https://www.cricket.com/cricket-stadiums/vineyard-cricket-ground-cape-town-1694"
+  },
+  {
+    "name": "Newlands, Cape Town",
+    "url": "https://www.cricket.com/cricket-stadiums/newlands-cape-town-112"
+  },
+  {
+    "name": "City Oval, Pietermaritzburg",
+    "url": "https://www.cricket.com/cricket-stadiums/city-oval-pietermaritzburg-121"
+  },
+  {
+    "name": "Rangiri Dambulla International Stadium, Dambulla",
+    "url": "https://www.cricket.com/cricket-stadiums/rangiri-dambulla-international-stadium-dambulla-133"
+  },
+  {
+    "name": "Narendra Modi Stadium, Ahmedabad",
+    "url": "https://www.cricket.com/cricket-stadiums/narendra-modi-stadium-ahmedabad-137"
+  },
+  {
+    "name": "Kwekwe Sports Club, Kwekwe",
+    "url": "https://www.cricket.com/cricket-stadiums/kwekwe-sports-club-kwekwe-178"
+  },
+  {
+    "name": "Queen's Park, Chesterfield",
+    "url": "https://www.cricket.com/cricket-stadiums/queen-s-park-chesterfield-396"
+  },
+  {
+    "name": "Saxton Oval, Nelson",
+    "url": "https://www.cricket.com/cricket-stadiums/saxton-oval-nelson-1504"
+  },
+  {
+    "name": "Coolidge Cricket Ground, Osbourn",
+    "url": "https://www.cricket.com/cricket-stadiums/coolidge-cricket-ground-osbourn-1567"
+  },
+  {
+    "name": "Jadavpur University Campus 2nd Ground, Kolkata",
+    "url": "https://www.cricket.com/cricket-stadiums/jadavpur-university-campus-2nd-ground-kolkata-1859"
+  },
+  {
+    "name": "Panadura Esplanade, Panadura",
+    "url": "https://www.cricket.com/cricket-stadiums/panadura-esplanade-panadura-1330"
+  },
+  {
+    "name": "CSR Sharma College Ground, Ongole, Andhra Pradesh",
+    "url": "https://www.cricket.com/cricket-stadiums/csr-sharma-college-ground-ongole-andhra-pradesh-1863"
+  },
+  {
+    "name": "Dring Stadium, Bahawalpur",
+    "url": "https://www.cricket.com/cricket-stadiums/dring-stadium-bahawalpur-10"
+  },
+  {
+    "name": "Kandahar Cricket Stadium, Kandahar",
+    "url": "https://www.cricket.com/cricket-stadiums/kandahar-cricket-stadium-kandahar-1934"
+  },
+  {
+    "name": "Royal College Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/royal-college-ground-colombo-1475"
+  },
+  {
+    "name": "Thurstan College Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/thurstan-college-ground-colombo-1635"
+  },
+  {
+    "name": "Garon Park, Southend-on-Sea",
+    "url": "https://www.cricket.com/cricket-stadiums/garon-park-southend-on-sea-950"
+  },
+  {
+    "name": "Mirpur Cricket Stadium, Mirpur",
+    "url": "https://www.cricket.com/cricket-stadiums/mirpur-cricket-stadium-mirpur-539"
+  },
+  {
+    "name": "Guanggong International Cricket Stadium, Guangzhou",
+    "url": "https://www.cricket.com/cricket-stadiums/guanggong-international-cricket-stadium-guangzhou-1817"
+  },
+  {
+    "name": "Jaffery Sports Club Ground, Nairobi",
+    "url": "https://www.cricket.com/cricket-stadiums/jaffery-sports-club-ground-nairobi-176"
+  },
+  {
+    "name": "Harry Barker Reserve, Gisborne",
+    "url": "https://www.cricket.com/cricket-stadiums/harry-barker-reserve-gisborne-1010"
+  },
+  {
+    "name": "Mitchell's Plain, Cape Town",
+    "url": "https://www.cricket.com/cricket-stadiums/mitchell-s-plain-cape-town-1729"
+  },
+  {
+    "name": "Schoemans Field, East London",
+    "url": "https://www.cricket.com/cricket-stadiums/schoemans-field-east-london-1936"
+  },
+  {
+    "name": "ABSA Oval, Port Elizabeth",
+    "url": "https://www.cricket.com/cricket-stadiums/absa-oval-port-elizabeth-269"
+  },
+  {
+    "name": "Three Ws Oval, Bridgetown",
+    "url": "https://www.cricket.com/cricket-stadiums/three-ws-oval-bridgetown-1633"
+  },
+  {
+    "name": "Merchant Taylors' School Ground, Northwood",
+    "url": "https://www.cricket.com/cricket-stadiums/merchant-taylors-school-ground-northwood-1818"
+  },
+  {
+    "name": "Ordinance Equipment Factory Ground, Kanpur",
+    "url": "https://www.cricket.com/cricket-stadiums/ordinance-equipment-factory-ground-kanpur-1313"
+  },
+  {
+    "name": "JSCA Oval Ground, Ranchi",
+    "url": "https://www.cricket.com/cricket-stadiums/jsca-oval-ground-ranchi-1846"
+  },
+  {
+    "name": "Gliderol Stadium, Adelaide",
+    "url": "https://www.cricket.com/cricket-stadiums/gliderol-stadium-adelaide-1835"
+  },
+  {
+    "name": "Multan Cricket Club Ground",
+    "url": "https://www.cricket.com/cricket-stadiums/multan-cricket-club-ground-1231"
+  },
+  {
+    "name": "Dr PVG Raju ACA Sports Complex, Vizianagaram, Andhra Pradesh",
+    "url": "https://www.cricket.com/cricket-stadiums/dr-pvg-raju-aca-sports-complex-vizianagaram-andhra-pradesh-1841"
+  },
+  {
+    "name": "Rural Development Trust Stadium, Anantapur",
+    "url": "https://www.cricket.com/cricket-stadiums/rural-development-trust-stadium-anantapur-507"
+  },
+  {
+    "name": "Karori Park, Wellington",
+    "url": "https://www.cricket.com/cricket-stadiums/karori-park-wellington-1819"
+  },
+  {
+    "name": "Kunar Cricket Ground, Kunar, Kunar Province",
+    "url": "https://www.cricket.com/cricket-stadiums/kunar-cricket-ground-kunar-kunar-province-1929"
+  },
+  {
+    "name": "Bangladesh Krira Shikkha Protisthan Ground, Savar",
+    "url": "https://www.cricket.com/cricket-stadiums/bangladesh-krira-shikkha-protisthan-ground-savar-472"
+  },
+  {
+    "name": "Emerald High School Ground, Indore",
+    "url": "https://www.cricket.com/cricket-stadiums/emerald-high-school-ground-indore-242"
+  },
+  {
+    "name": "Guru Nanak College Ground, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/guru-nanak-college-ground-chennai-994"
+  },
+  {
+    "name": "TI Cycles Ground, Murugappa, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/ti-cycles-ground-murugappa-chennai-1759"
+  },
+  {
+    "name": "Sri Ramachandra Medical College Ground, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/sri-ramachandra-medical-college-ground-chennai-1553"
+  },
+  {
+    "name": "Alembic Ground,  Vadodara",
+    "url": "https://www.cricket.com/cricket-stadiums/alembic-ground-vadodara-618"
+  },
+  {
+    "name": "Sardar Vallabhai Patel Stadium, Ahmedabad",
+    "url": "https://www.cricket.com/cricket-stadiums/sardar-vallabhai-patel-stadium-ahmedabad-187"
+  },
+  {
+    "name": "Welbeck Colliery Cricket Club Ground, Market Warsop",
+    "url": "https://www.cricket.com/cricket-stadiums/welbeck-colliery-cricket-club-ground-market-warsop-1874"
+  },
+  {
+    "name": "Stanley Park, Blackpool",
+    "url": "https://www.cricket.com/cricket-stadiums/stanley-park-blackpool-417"
+  },
+  {
+    "name": "India Cement Limited Guru Nanak College Ground, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/india-cement-limited-guru-nanak-college-ground-chennai-234"
+  },
+  {
+    "name": "Airforce Complex ground, Palam II, New Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/airforce-complex-ground-palam-ii-new-delhi-579"
+  },
+  {
+    "name": "Nairobi Club Ground, Nairobi",
+    "url": "https://www.cricket.com/cricket-stadiums/nairobi-club-ground-nairobi-188"
+  },
+  {
+    "name": "Ruaraka Sports Club Ground, Nairobi",
+    "url": "https://www.cricket.com/cricket-stadiums/ruaraka-sports-club-ground-nairobi-177"
+  },
+  {
+    "name": "Haslegrave Ground, Loughborough",
+    "url": "https://www.cricket.com/cricket-stadiums/haslegrave-ground-loughborough-329"
+  },
+  {
+    "name": "Westridge, Cape Town",
+    "url": "https://www.cricket.com/cricket-stadiums/westridge-cape-town-1730"
+  },
+  {
+    "name": "WPCC, Cape Town",
+    "url": "https://www.cricket.com/cricket-stadiums/wpcc-cape-town-1780"
+  },
+  {
+    "name": "Old Grey Sports Club Ground, Port Elizabeth",
+    "url": "https://www.cricket.com/cricket-stadiums/old-grey-sports-club-ground-port-elizabeth-1843"
+  },
+  {
+    "name": "PP Smit Stadium, Bellville",
+    "url": "https://www.cricket.com/cricket-stadiums/pp-smit-stadium-bellville-1387"
+  },
+  {
+    "name": "Narendra Modi Stadium Ground B, Motera, Ahmedabad",
+    "url": "https://www.cricket.com/cricket-stadiums/narendra-modi-stadium-ground-b-motera-ahmedabad-559"
+  },
+  {
+    "name": "Masvingo Sports Club, Masvingo",
+    "url": "https://www.cricket.com/cricket-stadiums/masvingo-sports-club-masvingo-1187"
+  },
+  {
+    "name": "Mutare Sports Club, Mutare",
+    "url": "https://www.cricket.com/cricket-stadiums/mutare-sports-club-mutare-1243"
+  },
+  {
+    "name": "Air Force Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/air-force-ground-colombo-607"
+  },
+  {
+    "name": "Moratuwa Sports Club Ground, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/moratuwa-sports-club-ground-colombo-1215"
+  },
+  {
+    "name": "Model Sports Complex, Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/model-sports-complex-delhi-1208"
+  },
+  {
+    "name": "Metallurgical and Engineering Consultant Ltd Sail Stadium, Ranchi",
+    "url": "https://www.cricket.com/cricket-stadiums/metallurgical-and-engineering-consultant-ltd-sail-stadium-ranchi-257"
+  },
+  {
+    "name": "Trafalgar Road Ground, Southport",
+    "url": "https://www.cricket.com/cricket-stadiums/trafalgar-road-ground-southport-1648"
+  },
+  {
+    "name": "Zahoor Elahi Stadium, Gujrat",
+    "url": "https://www.cricket.com/cricket-stadiums/zahoor-elahi-stadium-gujrat-1830"
+  },
+  {
+    "name": "Indian Institute of Technology Chemplast Ground, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/indian-institute-of-technology-chemplast-ground-chennai-338"
+  },
+  {
+    "name": "National Ground, Islamabad",
+    "url": "https://www.cricket.com/cricket-stadiums/national-ground-islamabad-1251"
+  },
+  {
+    "name": "National Cricket Centre, Couva, Trinidad",
+    "url": "https://www.cricket.com/cricket-stadiums/national-cricket-centre-couva-trinidad-379"
+  },
+  {
+    "name": "Atal Bihari Vajpayee Stadium, Nadaun",
+    "url": "https://www.cricket.com/cricket-stadiums/atal-bihari-vajpayee-stadium-nadaun-1246"
+  },
+  {
+    "name": "Goa Cricket Association Academy Ground, Goa",
+    "url": "https://www.cricket.com/cricket-stadiums/goa-cricket-association-academy-ground-goa-583"
+  },
+  {
+    "name": "Jamia Millia Islamia University Complex, New Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/jamia-millia-islamia-university-complex-new-delhi-344"
+  },
+  {
+    "name": "Aditya Academy Ground, Bengaluru",
+    "url": "https://www.cricket.com/cricket-stadiums/aditya-academy-ground-bengaluru-1849"
+  },
+  {
+    "name": "Bagh-e-Jinnah, Lahore",
+    "url": "https://www.cricket.com/cricket-stadiums/bagh-e-jinnah-lahore-9"
+  },
+  {
+    "name": "Windward Park, Lucas Street, Barbados",
+    "url": "https://www.cricket.com/cricket-stadiums/windward-park-lucas-street-barbados-1742"
+  },
+  {
+    "name": "YS Raja Reddy Stadium, Cuddapah",
+    "url": "https://www.cricket.com/cricket-stadiums/ys-raja-reddy-stadium-cuddapah-1762"
+  },
+  {
+    "name": "Shah Satnam Ji Stadium, Sirsa, Haryana",
+    "url": "https://www.cricket.com/cricket-stadiums/shah-satnam-ji-stadium-sirsa-haryana-509"
+  },
+  {
+    "name": "Gymkhana Ground, Hyderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/gymkhana-ground-hyderabad-324"
+  },
+  {
+    "name": "Vishvesharayya Iron & Steel Ltd Ground, Bhadravati",
+    "url": "https://www.cricket.com/cricket-stadiums/vishvesharayya-iron-steel-ltd-ground-bhadravati-1696"
+  },
+  {
+    "name": "Ukku Stadium, Visakhapatnam",
+    "url": "https://www.cricket.com/cricket-stadiums/ukku-stadium-visakhapatnam-265"
+  },
+  {
+    "name": "Tripura Institute of Technology Ground, Agartala",
+    "url": "https://www.cricket.com/cricket-stadiums/tripura-institute-of-technology-ground-agartala-448"
+  },
+  {
+    "name": "Sir Frank Worrell Memorial Ground, St Augustine, Trinidad",
+    "url": "https://www.cricket.com/cricket-stadiums/sir-frank-worrell-memorial-ground-st-augustine-trinidad-1534"
+  },
+  {
+    "name": "Dr. Akhilesh Das Stadium, Lucknow",
+    "url": "https://www.cricket.com/cricket-stadiums/dr-akhilesh-das-stadium-lucknow-515"
+  },
+  {
+    "name": "Poona Club Ground, Poona",
+    "url": "https://www.cricket.com/cricket-stadiums/poona-club-ground-poona-503"
+  },
+  {
+    "name": "Union Ground, Port Elizabeth",
+    "url": "https://www.cricket.com/cricket-stadiums/union-ground-port-elizabeth-1662"
+  },
+  {
+    "name": "Campbell Park, Milton Keynes",
+    "url": "https://www.cricket.com/cricket-stadiums/campbell-park-milton-keynes-231"
+  },
+  {
+    "name": "Satindra Mohan Dev Stadium, Silchar",
+    "url": "https://www.cricket.com/cricket-stadiums/satindra-mohan-dev-stadium-silchar-406"
+  },
+  {
+    "name": "Chester Road North, Kidderminster",
+    "url": "https://www.cricket.com/cricket-stadiums/chester-road-north-kidderminster-292"
+  },
+  {
+    "name": "Jawaharlal Nehru Stadium, Ghaziabad",
+    "url": "https://www.cricket.com/cricket-stadiums/jawaharlal-nehru-stadium-ghaziabad-253"
+  },
+  {
+    "name": "Weetwood Playing Fields, Leeds",
+    "url": "https://www.cricket.com/cricket-stadiums/weetwood-playing-fields-leeds-1825"
+  },
+  {
+    "name": "Central Polytechnic India Pistons Ground, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/central-polytechnic-india-pistons-ground-chennai-563"
+  },
+  {
+    "name": "St. Paul's Sports Complex, Basseterre",
+    "url": "https://www.cricket.com/cricket-stadiums/st-paul-s-sports-complex-basseterre-564"
+  },
+  {
+    "name": "Lohnu Cricket Ground, Bilaspur",
+    "url": "https://www.cricket.com/cricket-stadiums/lohnu-cricket-ground-bilaspur-1132"
+  },
+  {
+    "name": "Addelita Cancryn Junior High School Ground, Charlotte Amalie, St Thomas",
+    "url": "https://www.cricket.com/cricket-stadiums/addelita-cancryn-junior-high-school-ground-charlotte-amalie-st-thomas-603"
+  },
+  {
+    "name": "Riffle Green, Colombo",
+    "url": "https://www.cricket.com/cricket-stadiums/riffle-green-colombo-1458"
+  },
+  {
+    "name": "Kallang Ground, Singapore",
+    "url": "https://www.cricket.com/cricket-stadiums/kallang-ground-singapore-79"
+  },
+  {
+    "name": "MRF Pachyappas Ground, Chennai",
+    "url": "https://www.cricket.com/cricket-stadiums/mrf-pachyappas-ground-chennai-561"
+  },
+  {
+    "name": "Highfield, Leek",
+    "url": "https://www.cricket.com/cricket-stadiums/highfield-leek-1021"
+  },
+  {
+    "name": "United Cricket Ground, Buffalo Flats, East London",
+    "url": "https://www.cricket.com/cricket-stadiums/united-cricket-ground-buffalo-flats-east-london-1664"
+  },
+  {
+    "name": "Old Edwardians Cricket Club A Ground, Johannesburg",
+    "url": "https://www.cricket.com/cricket-stadiums/old-edwardians-cricket-club-a-ground-johannesburg-612"
+  },
+  {
+    "name": "Walter Milton Oval, Johannesburg",
+    "url": "https://www.cricket.com/cricket-stadiums/walter-milton-oval-johannesburg-457"
+  },
+  {
+    "name": "Toronto Cricket, Skating and Curling Club, Toronto",
+    "url": "https://www.cricket.com/cricket-stadiums/toronto-cricket-skating-and-curling-club-toronto-41"
+  },
+  {
+    "name": "Kota",
+    "url": "https://www.cricket.com/cricket-stadiums/kota-1102"
+  },
+  {
+    "name": "Durham University Ground, Durham",
+    "url": "https://www.cricket.com/cricket-stadiums/durham-university-ground-durham-46"
+  },
+  {
+    "name": "Gandhi Sports Complex Ground, Amritsar",
+    "url": "https://www.cricket.com/cricket-stadiums/gandhi-sports-complex-ground-amritsar-57"
+  },
+  {
+    "name": "Nehru Stadium, Margao",
+    "url": "https://www.cricket.com/cricket-stadiums/nehru-stadium-margao-107"
+  },
+  {
+    "name": "Sports Stadium, Sargodha",
+    "url": "https://www.cricket.com/cricket-stadiums/sports-stadium-sargodha-138"
+  },
+  {
+    "name": "Sher-I-Kashmir Stadium, Srinagar",
+    "url": "https://www.cricket.com/cricket-stadiums/sher-i-kashmir-stadium-srinagar-146"
+  },
+  {
+    "name": "National Cricket Stadium, Tangier",
+    "url": "https://www.cricket.com/cricket-stadiums/national-cricket-stadium-tangier-155"
+  },
+  {
+    "name": "Tata Energy Research Institute Oval, Gurgaon",
+    "url": "https://www.cricket.com/cricket-stadiums/tata-energy-research-institute-oval-gurgaon-217"
+  },
+  {
+    "name": "Horsham Cricket and Sports Club, Horsham",
+    "url": "https://www.cricket.com/cricket-stadiums/horsham-cricket-and-sports-club-horsham-228"
+  },
+  {
+    "name": "Jain International Residential School Ground, Bangalore",
+    "url": "https://www.cricket.com/cricket-stadiums/jain-international-residential-school-ground-bangalore-235"
+  },
+  {
+    "name": "Roshanara Club Ground, Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/roshanara-club-ground-delhi-237"
+  },
+  {
+    "name": "Nant Kanhere Maidan, Nasik",
+    "url": "https://www.cricket.com/cricket-stadiums/nant-kanhere-maidan-nasik-238"
+  },
+  {
+    "name": "Fort Maidan, Palakkad",
+    "url": "https://www.cricket.com/cricket-stadiums/fort-maidan-palakkad-241"
+  },
+  {
+    "name": "Dr.Rajendra Prasad Stadium, Margao",
+    "url": "https://www.cricket.com/cricket-stadiums/dr-rajendra-prasad-stadium-margao-247"
+  },
+  {
+    "name": "Veer Surendra Sai Stadium, Sambalpur",
+    "url": "https://www.cricket.com/cricket-stadiums/veer-surendra-sai-stadium-sambalpur-251"
+  },
+  {
+    "name": "East Coast Railway Sports Association, Bhubaneswar",
+    "url": "https://www.cricket.com/cricket-stadiums/east-coast-railway-sports-association-bhubaneswar-255"
+  },
+  {
+    "name": "New Digamber Public School, Indore",
+    "url": "https://www.cricket.com/cricket-stadiums/new-digamber-public-school-indore-261"
+  },
+  {
+    "name": "Jawaharlal Navoday Vidhyalay Stadium, Una",
+    "url": "https://www.cricket.com/cricket-stadiums/jawaharlal-navoday-vidhyalay-stadium-una-263"
+  },
+  {
+    "name": "Indira Gandhi Stadium, Una",
+    "url": "https://www.cricket.com/cricket-stadiums/indira-gandhi-stadium-una-264"
+  },
+  {
+    "name": "Port Trust Diamond Jubilee Stadium, Visakhapatnam",
+    "url": "https://www.cricket.com/cricket-stadiums/port-trust-diamond-jubilee-stadium-visakhapatnam-266"
+  },
+  {
+    "name": "Aorangi Oval, Timaru",
+    "url": "https://www.cricket.com/cricket-stadiums/aorangi-oval-timaru-273"
+  },
+  {
+    "name": "Harbax Singh Stadium, Delhi",
+    "url": "https://www.cricket.com/cricket-stadiums/harbax-singh-stadium-delhi-327"
+  },
+  {
+    "name": "Infosys Ground, Mysore",
+    "url": "https://www.cricket.com/cricket-stadiums/infosys-ground-mysore-341"
+  },
+  {
+    "name": "Nehru Stadium, Gurgaon",
+    "url": "https://www.cricket.com/cricket-stadiums/nehru-stadium-gurgaon-380"
+  },
+  {
+    "name": "No 1 Sports Ground, Newcastle",
+    "url": "https://www.cricket.com/cricket-stadiums/no-1-sports-ground-newcastle-383"
+  },
+  {
+    "name": "Conor Vayal Stadium, Kannur",
+    "url": "https://www.cricket.com/cricket-stadiums/conor-vayal-stadium-kannur-506"
+  },
+  {
+    "name": "Infosys Ground, Bhubaneswar",
+    "url": "https://www.cricket.com/cricket-stadiums/infosys-ground-bhubaneswar-508"
+  },
+  {
+    "name": "Jawaharlal Nehru Stadium, Dhanbad",
+    "url": "https://www.cricket.com/cricket-stadiums/jawaharlal-nehru-stadium-dhanbad-510"
+  },
+  {
+    "name": "Mohan Meakins Cricket Stadium, Ghaziabad",
+    "url": "https://www.cricket.com/cricket-stadiums/mohan-meakins-cricket-stadium-ghaziabad-514"
+  },
+  {
+    "name": "Railway Stadium, Dhanbad",
+    "url": "https://www.cricket.com/cricket-stadiums/railway-stadium-dhanbad-516"
+  },
+  {
+    "name": "Nelson Park, Napier",
+    "url": "https://www.cricket.com/cricket-stadiums/nelson-park-napier-527"
+  },
+  {
+    "name": "Kanchanjungwa Krirangan, Siliguri",
+    "url": "https://www.cricket.com/cricket-stadiums/kanchanjungwa-krirangan-siliguri-536"
+  },
+  {
+    "name": "Sardar Patel Gujarat Stadium C, Motera, Ahmedabad",
+    "url": "https://www.cricket.com/cricket-stadiums/sardar-patel-gujarat-stadium-c-motera-ahmedabad-560"
+  },
+  {
+    "name": "Sunshine Ground, Cuttack",
+    "url": "https://www.cricket.com/cricket-stadiums/sunshine-ground-cuttack-578"
+  },
+  {
+    "name": "Bhamashah Stadium, Meerut",
+    "url": "https://www.cricket.com/cricket-stadiums/bhamashah-stadium-meerut-580"
+  },
+  {
+    "name": "Abdur Rab Sernibad Stadium, Barisal",
+    "url": "https://www.cricket.com/cricket-stadiums/abdur-rab-sernibad-stadium-barisal-596"
+  },
+  {
+    "name": "Bangladesh Krira Shikkha Protisthan No 2 Ground, Savar",
+    "url": "https://www.cricket.com/cricket-stadiums/bangladesh-krira-shikkha-protisthan-no-2-ground-savar-664"
+  },
+  {
+    "name": "Brunton Memorial Ground, Radlett",
+    "url": "https://www.cricket.com/cricket-stadiums/brunton-memorial-ground-radlett-727"
+  },
+  {
+    "name": "Chatrapati Shivaji Stadium, Ratnagiri",
+    "url": "https://www.cricket.com/cricket-stadiums/chatrapati-shivaji-stadium-ratnagiri-774"
+  },
+  {
+    "name": "Conor Vyal Stadium, Thalassery",
+    "url": "https://www.cricket.com/cricket-stadiums/conor-vyal-stadium-thalassery-811"
+  },
+  {
+    "name": "Cricket Garden, Rangpur",
+    "url": "https://www.cricket.com/cricket-stadiums/cricket-garden-rangpur-827"
+  },
+  {
+    "name": "Diamond Club Ground, Islamabad",
+    "url": "https://www.cricket.com/cricket-stadiums/diamond-club-ground-islamabad-854"
+  },
+  {
+    "name": "Gohati Cricket Stadium, Swabi",
+    "url": "https://www.cricket.com/cricket-stadiums/gohati-cricket-stadium-swabi-968"
+  },
+  {
+    "name": "Gymkhana Ground, Secunderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/gymkhana-ground-secunderabad-1000"
+  },
+  {
+    "name": "Hindustan Zinc Limited Ground, Visakhapatnam",
+    "url": "https://www.cricket.com/cricket-stadiums/hindustan-zinc-limited-ground-visakhapatnam-1023"
+  },
+  {
+    "name": "Indian Petrochemicals Corporation Limited Ground, Nagothana",
+    "url": "https://www.cricket.com/cricket-stadiums/indian-petrochemicals-corporation-limited-ground-nagothana-1044"
+  },
+  {
+    "name": "Maharaja Agarsingh Stadium, Rohtak",
+    "url": "https://www.cricket.com/cricket-stadiums/maharaja-agarsingh-stadium-rohtak-1158"
+  },
+  {
+    "name": "Maharanna Bhupal College Ground, Udaipur",
+    "url": "https://www.cricket.com/cricket-stadiums/maharanna-bhupal-college-ground-udaipur-1166"
+  },
+  {
+    "name": "Marghzar Cricket Ground, Islamabad",
+    "url": "https://www.cricket.com/cricket-stadiums/marghzar-cricket-ground-islamabad-1183"
+  },
+  {
+    "name": "Municipal Sports Complex, Mirpur Khas",
+    "url": "https://www.cricket.com/cricket-stadiums/municipal-sports-complex-mirpur-khas-1238"
+  },
+  {
+    "name": "Nuclear Fuel Complex Ground, Secunderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/nuclear-fuel-complex-ground-secunderabad-1295"
+  },
+  {
+    "name": "Pollock Field, Grey High School, Port Elizabeth",
+    "url": "https://www.cricket.com/cricket-stadiums/pollock-field-grey-high-school-port-elizabeth-1373"
+  },
+  {
+    "name": "Pune Club Ground, Pune",
+    "url": "https://www.cricket.com/cricket-stadiums/pune-club-ground-pune-1398"
+  },
+  {
+    "name": "Punjab Agricultural University Ground, Ludhiana",
+    "url": "https://www.cricket.com/cricket-stadiums/punjab-agricultural-university-ground-ludhiana-1399"
+  },
+  {
+    "name": "Railways Recreation Club Ground, Secunderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/railways-recreation-club-ground-secunderabad-1420"
+  },
+  {
+    "name": "Rashid Latif Cricket Academy Ground, Karachi",
+    "url": "https://www.cricket.com/cricket-stadiums/rashid-latif-cricket-academy-ground-karachi-1435"
+  },
+  {
+    "name": "Shaw Park, Scarborough, Tobago",
+    "url": "https://www.cricket.com/cricket-stadiums/shaw-park-scarborough-tobago-1520"
+  },
+  {
+    "name": "Sports Complex, Jhalwar",
+    "url": "https://www.cricket.com/cricket-stadiums/sports-complex-jhalwar-1549"
+  },
+  {
+    "name": "Sports Complex, Mardan",
+    "url": "https://www.cricket.com/cricket-stadiums/sports-complex-mardan-1550"
+  },
+  {
+    "name": "AOC Centre Thapar Stadium, Army Ordinance Centre, Secunderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/aoc-centre-thapar-stadium-army-ordinance-centre-secunderabad-1609"
+  },
+  {
+    "name": "Triangle Country Club, Triangle",
+    "url": "https://www.cricket.com/cricket-stadiums/triangle-country-club-triangle-1653"
+  },
+  {
+    "name": "Kamla Club Ground, Kanpur",
+    "url": "https://www.cricket.com/cricket-stadiums/kamla-club-ground-kanpur-1758"
+  },
+  {
+    "name": "Bothwell Castle, Uddingston",
+    "url": "https://www.cricket.com/cricket-stadiums/bothwell-castle-uddingston-1764"
+  },
+  {
+    "name": "Sir Lionel Phillips Ground, Johannesburg",
+    "url": "https://www.cricket.com/cricket-stadiums/sir-lionel-phillips-ground-johannesburg-1792"
+  },
+  {
+    "name": "Birla Institute of Technology and Science Pilani, Vasco da Gama",
+    "url": "https://www.cricket.com/cricket-stadiums/birla-institute-of-technology-and-science-pilani-vasco-da-gama-1822"
+  },
+  {
+    "name": "Prerana Education Society Institute of Technology, Shimoga",
+    "url": "https://www.cricket.com/cricket-stadiums/prerana-education-society-institute-of-technology-shimoga-1823"
+  },
+  {
+    "name": "Shaheed Mohtarama Benazir Bhutto International Cricket Stadium, Sindh",
+    "url": "https://www.cricket.com/cricket-stadiums/shaheed-mohtarama-benazir-bhutto-international-cricket-stadium-sindh-1831"
+  },
+  {
+    "name": "Mir Cricket Ground, Hyderabad",
+    "url": "https://www.cricket.com/cricket-stadiums/mir-cricket-ground-hyderabad-1832"
+  },
+  {
+    "name": "Hammondfield, Durban",
+    "url": "https://www.cricket.com/cricket-stadiums/hammondfield-durban-1836"
+  },
+  {
+    "name": "Bottom Oval, Wanderers Club",
+    "url": "https://www.cricket.com/cricket-stadiums/bottom-oval-wanderers-club-1850"
+  },
+  {
+    "name": "Memorial Park, Pretoria",
+    "url": "https://www.cricket.com/cricket-stadiums/memorial-park-pretoria-1851"
+  },
+  {
+    "name": "Robertson Oval, Wagga Wagga",
+    "url": "https://www.cricket.com/cricket-stadiums/robertson-oval-wagga-wagga-1854"
+  },
+  {
+    "name": "Arabian Sea Country Club, Karachi",
+    "url": "https://www.cricket.com/cricket-stadiums/arabian-sea-country-club-karachi-1858"
+  },
+  {
+    "name": "Gandhi Stadium, Balangir",
+    "url": "https://www.cricket.com/cricket-stadiums/gandhi-stadium-balangir-1865"
+  },
+  {
+    "name": "St Paul's College Ground, Kochi",
+    "url": "https://www.cricket.com/cricket-stadiums/st-paul-s-college-ground-kochi-1866"
+  },
+  {
+    "name": "CBC Old Boys Cricket Club, Pretoria",
+    "url": "https://www.cricket.com/cricket-stadiums/cbc-old-boys-cricket-club-pretoria-1877"
+  }
+]
