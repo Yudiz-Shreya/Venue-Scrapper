@@ -295,7 +295,7 @@ async function extractCricketStats($) {
                     date: date,
                     year: year,
                     teams: teams,
-                    matchResult: matchResult || 'Match details not available'
+                    matchResult: matchResult
                   };
 
                   // If we found a score, no need to check other sections
@@ -992,7 +992,7 @@ function extractStatsFromIndividualCards($, stats) {
             date: date,
             year: year,
             teams: teams,
-            matchResult: matchResult || 'Match details not available'
+            matchResult: matchResult
           };
         }
       });

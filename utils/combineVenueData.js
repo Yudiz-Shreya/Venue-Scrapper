@@ -107,6 +107,7 @@ function combineVenueData({ cricbuzz = {}, espn = {}, cricketDotCom = {} }) {
     'aHomeTeams': ['homeTeams', 'home_to', 'Home Teams', 'Home to'],
     'aEnds': ['ends', 'Ends', 'Bowling Ends'],
     'aAlsoKnownAs': ['Also known as', 'Known as'],
+    'sDimensions': ['dimensions', 'Dimensions']
   };
 
   // First, handle sArea with priority
@@ -118,10 +119,19 @@ function combineVenueData({ cricbuzz = {}, espn = {}, cricketDotCom = {} }) {
     standardizedData.sArea = espn.sLocation || espn.Location || espn.Country || espn.country;
   }
 
+  // Handle capacity with priority: cricbuzz > espn > cricketDotCom
+  if (cricbuzz.sCapacity || cricbuzz.Capacity || cricbuzz.capacity) {
+    standardizedData.sCapacity = cricbuzz.sCapacity || cricbuzz.Capacity || cricbuzz.capacity;
+  } else if (espn.sCapacity || espn.Capacity || espn.capacity) {
+    standardizedData.sCapacity = espn.sCapacity || espn.Capacity || espn.capacity;
+  } else if (cricketDotCom.sCapacity || cricketDotCom.Capacity || cricketDotCom.capacity) {
+    standardizedData.sCapacity = cricketDotCom.sCapacity || cricketDotCom.Capacity || cricketDotCom.capacity;
+  }
+
   [cricbuzz, espn, cricketDotCom].forEach(source => {
     Object.entries(fieldMappings).forEach(([standardField, aliases]) => {
-      // Skip sArea as we've already handled it
-      if (standardField === 'sArea') return;
+      // Skip sArea and sCapacity as we've already handled them
+      if (standardField === 'sArea' || standardField === 'sCapacity') return;
 
       if (source[standardField] !== undefined) {
         standardizedData[standardField] = source[standardField];
@@ -137,6 +147,77 @@ function combineVenueData({ cricbuzz = {}, espn = {}, cricketDotCom = {} }) {
   });
 
   const mergedData = { ...rawData, ...standardizedData };
+
+  // Handle sports fields with priority: ESPN > Cricbuzz > CricketDotCom
+  const sportsFields = ['aOtherSports', 'Other_Sports_it_is_home_to', 'otherSports'];
+
+  // First, standardize all sports fields to aOtherSports in each source
+  [cricbuzz, espn, cricketDotCom].forEach(source => {
+    sportsFields.forEach(field => {
+      if (source[field]) {
+        source.aOtherSports = Array.isArray(source[field])
+          ? source[field]
+          : [source[field]];
+        // Don't delete yet, we'll handle that later
+      }
+    });
+  });
+
+  // Now handle priority - ESPN first, then Cricbuzz, then cricketDotCom
+  if (espn.aOtherSports) {
+    mergedData.aOtherSports = espn.aOtherSports;
+  } else if (cricbuzz.aOtherSports) {
+    mergedData.aOtherSports = cricbuzz.aOtherSports;
+  } else if (cricketDotCom.aOtherSports) {
+    mergedData.aOtherSports = cricketDotCom.aOtherSports;
+  }
+
+  // Clean up any remaining sports fields from mergedData
+  sportsFields.forEach(field => {
+    if (field !== 'aOtherSports') {
+      delete mergedData[field];
+    }
+  });
+
+  // Handle dimensions field
+  if (mergedData.dimensions || mergedData.Dimensions) {
+    mergedData.sDimensions = mergedData.dimensions || mergedData.Dimensions;
+    delete mergedData.dimensions;
+    delete mergedData.Dimensions;
+  }
+
+  // Ensure aOtherSports is properly formatted
+  if (mergedData.aOtherSports) {
+    mergedData.aOtherSports = [...new Set(
+      (Array.isArray(mergedData.aOtherSports) ? mergedData.aOtherSports : [mergedData.aOtherSports])
+        .filter(sport => sport && typeof sport === 'string')
+        .map(sport => sport.trim())
+        .filter(Boolean)
+    )];
+
+    if (mergedData.aOtherSports.length === 0) {
+      delete mergedData.aOtherSports;
+    }
+  }
+
+  // Final cleanup - explicitly remove Other_Sports_it_is_home_to
+  if ('Other_Sports_it_is_home_to' in mergedData) {
+    delete mergedData.Other_Sports_it_is_home_to;
+  }
+
+  // Also remove any other variations of the field
+  const fieldsToRemove = [
+    'Other Sports it is home to',
+    'other_sports',
+    'sports',
+    'sOtherSports'
+  ];
+
+  fieldsToRemove.forEach(field => {
+    if (field in mergedData) {
+      delete mergedData[field];
+    }
+  });
 
   Object.entries(fieldMappings).forEach(([standardField, aliases]) => {
     aliases.forEach(alias => {
@@ -173,7 +254,9 @@ function combineVenueData({ cricbuzz = {}, espn = {}, cricketDotCom = {} }) {
     'Home Teams': 'aHomeTeams',
     'stats': 'oStats',
     'otherSports': 'aOtherSports',
-    'Other_Sports_it_is_home_to': 'aOtherSports'
+    'Other_Sports_it_is_home_to': 'aOtherSports',
+    'dimensions': 'sDimensions',
+    'Dimensions': 'sDimensions'
   };
 
   const formattedData = {};
@@ -262,7 +345,6 @@ function combineVenueData({ cricbuzz = {}, espn = {}, cricketDotCom = {} }) {
     }
   }
 
-  // --- NEW CLEANUP FUNCTION ---
   // --- NEW CLEANUP FUNCTION ---
   function removeEmptyFields(obj) {
     return Object.fromEntries(

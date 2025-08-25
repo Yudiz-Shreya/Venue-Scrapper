@@ -22,7 +22,7 @@ function getCleanStats(stats) {
   return Object.keys(cleanStats).length > 0 ? cleanStats : null;
 }
 
-const VENUES_FILE_PATH = path.join(__dirname, 'new3.json');
+const VENUES_FILE_PATH = path.join(__dirname, 'nocricketdotcom.json');
 
 async function scrapeVenue(oThirdparty) {
   const { cricbuzzUrl, espnUrl, cricketDotComUrl } = oThirdparty;
